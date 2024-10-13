@@ -5,10 +5,11 @@ website:
   title: "Scar Winter Kelsey | ScarData"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      text: "Projects"
+      menu:
+      - project-ibis.qmd
+      - yrbs-data-management.qmd
+      - pandas.qmd
 format:
   html:
     theme: jolla
