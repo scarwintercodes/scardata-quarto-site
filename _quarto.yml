@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Scar Winter Kelsey | ScarData"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: jolla
+    css: styles.css
+    toc: true
+
+editor: visual
+

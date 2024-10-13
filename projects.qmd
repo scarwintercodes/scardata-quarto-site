@@ -1,0 +1,15 @@
+title: "Projects"
+toc: false
+listing:
+  contents: talks
+  type: default
+  image-align: left
+  fields: 
+    - title
+    - description
+    - date
+    - image
+    - categories
+  categories: true
+  sort: "date desc"
+  page-size: 4

@@ -1,0 +1,20 @@
+
+---
+title: "YRBS Data Management"
+description: "A brief description of Project Title 1 that summarizes key features and outcomes."
+date: "2024-03-15"
+image: "images/project1.png"  # Ensure the image path is correct
+categories: 
+  - "Category A"
+  - "Category B"
+---
+
+## Overview
+
+This section provides an overview of Project Title 1, including its objectives and methodologies.
+
+## Key Features
+
+- Feature 1
+- Feature 2
+- Feature 3
