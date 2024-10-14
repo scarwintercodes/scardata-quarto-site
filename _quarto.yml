@@ -4,12 +4,14 @@ project:
 website:
   title: "Scar Winter Kelsey | ScarData"
   navbar:
-    left:
-      text: "Projects"
-      menu:
+    search: true
+    pinned: true
+    text: "Projects"
+    menu:
       - project-ibis.qmd
       - yrbs-data-management.qmd
       - pandas.qmd
+
 format:
   html:
     theme: jolla
@@ -17,4 +19,3 @@ format:
     toc: true
 
 editor: visual
-
