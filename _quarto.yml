@@ -12,17 +12,11 @@ website:
       - yrbs-data-management.qmd
       - pandas.qmd
       - resources.qmd
-
-format:
-  html:
-    theme: jolla
-    css: styles.css
-    toc: true
     
 format:
   html:
     theme: 
-      light: minty
+      light: jolla
       dark: solar
     css: styles.css
 

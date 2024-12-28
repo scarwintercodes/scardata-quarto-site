@@ -30,9 +30,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Quarto",
+    "title": "Scar Winter Kelsey",
     "section": "",
-    "text": "The overarching goal of Quarto is to make the process of creating and collaborating on scientific and technical documents dramatically better. We hope to do this in several dimensions:\n\nCreate a writing and publishing environment with great integrated tools for technical content. We want to make authoring with embedded code, equations, figures, complex diagrams, interactive widgets, citations, cross references, and the myriad other special requirements of scientific discourse straightforward and productive for everyone.\nHelp authors take full advantage of the web as a connected, interactive platform for communications, while still providing the ability to create excellent printed output from the same document source. Researchers shouldn’t need to choose between LaTeX, MS Word, and HTML but rather be able to author documents that target all of them at the same time.\nMake reproducible research and publications the norm rather than the exception. Reproducibility requires that the code and data required to create a manuscript are an integrated part of it. However, this isn’t often straightforward in practice—Quarto aims to make it easier to adopt a reproducible workflow than not.\n\nQuarto is open source software. We believe that it’s better for everyone if the tools used for research and science are free and open. Reproducibility, widespread sharing of knowledge and techniques, and the leveling of the playing field by eliminating cost barriers are but a few of the shared benefits of free software in science."
+    "text": "Scar Winter Kelsey is a multitalented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to [LINK] update your resume using R and [LINK] analyze complex survey data.\nThey have 9 years of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
   },
   {
     "objectID": "about.html#goals",
@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Scar Winter Kelsey | ScarData",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "page content excluded for brevity ~"
   },
   {
     "objectID": "projects/YRBS Data Management.html",
@@ -82,5 +82,19 @@
     "title": "YRBS Data Management",
     "section": "Key Features",
     "text": "Key Features\n\nFeature 1\nFeature 2\nFeature 3"
+  },
+  {
+    "objectID": "about.html#about",
+    "href": "about.html#about",
+    "title": "Scar Winter Kelsey",
+    "section": "",
+    "text": "Scar Winter Kelsey is a multitalented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to [LINK] update your resume using R and [LINK] analyze complex survey data.\nThey have 9 years of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
+  },
+  {
+    "objectID": "about.html#services",
+    "href": "about.html#services",
+    "title": "Scar Winter Kelsey",
+    "section": "Services",
+    "text": "Services\nScar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors."
   }
 ]
