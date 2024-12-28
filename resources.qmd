@@ -1,3 +1,5 @@
 ---
 title: "R Tips and Tricks"
 ---
+
+<https://ucsb-meds.github.io/creating-quarto-websites/>
