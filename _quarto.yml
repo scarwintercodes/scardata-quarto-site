@@ -11,11 +11,19 @@ website:
       - project-ibis.qmd
       - yrbs-data-management.qmd
       - pandas.qmd
+      - resources.qmd
 
 format:
   html:
     theme: jolla
     css: styles.css
     toc: true
+    
+format:
+  html:
+    theme: 
+      light: minty
+      dark: solar
+    css: styles.css
 
 editor: visual

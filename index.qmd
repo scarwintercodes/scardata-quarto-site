@@ -1,11 +1,19 @@
 ---
 title: "Scar Winter Kelsey | ScarData"
+
+image: images/headshot.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/scar-wk
+    - text: GitHub
+      href: https://github.com/scarwintercodes
+    - text: Email
+      href: mailto:scarwinterkelsey@gmail.com
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+        
+# page content excluded for brevity ~
