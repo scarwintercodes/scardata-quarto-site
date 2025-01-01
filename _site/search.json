@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Scar Winter Kelsey | ScarData",
     "section": "",
-    "text": "title: “Projects” toc: false listing: contents: talks type: default image-align: left fields: - title - description - date - image - categories categories: true sort: “date desc” page-size: 4"
+    "text": "title: “Projects” toc: false listing: contents: talks type: default image-align: left fields: - title - description - image - categories categories: true sort: “date desc” page-size: 4"
   },
   {
     "objectID": "projects/Project IBIS.html",
