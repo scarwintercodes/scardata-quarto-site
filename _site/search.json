@@ -11,7 +11,7 @@
     "href": "projects/Project IBIS.html",
     "title": "Project IBIS",
     "section": "",
-    "text": "This section provides an overview of Project Title 1, including its objectives and methodologies."
+    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
   },
   {
     "objectID": "projects/Project IBIS.html#overview",
@@ -96,5 +96,33 @@
     "title": "Scar Winter Kelsey",
     "section": "Services",
     "text": "Services\nScar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors."
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "R Tips and Tricks",
+    "section": "",
+    "text": "https://ucsb-meds.github.io/creating-quarto-websites/"
+  },
+  {
+    "objectID": "projects/Project IBIS.html#context",
+    "href": "projects/Project IBIS.html#context",
+    "title": "Project IBIS",
+    "section": "",
+    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
+  },
+  {
+    "objectID": "projects/Project IBIS.html#challenge",
+    "href": "projects/Project IBIS.html#challenge",
+    "title": "Project IBIS",
+    "section": "Challenge",
+    "text": "Challenge\nMany Puerto Rican residents living in rural or mountainous areas do not have the means to safely and efficiently evacuate the island during a natural disaster. Furthermore, many rural residents cannot readily transport themselves to a hospital or shelter. In many cases, these residents are often too sick to drive themselves. If they have a designated family member or friend who can transport them, they would have to ensure the roads are clear for vehicles to pass through, which is all the more difficult during a natural disaster."
+  },
+  {
+    "objectID": "projects/Project IBIS.html#solution",
+    "href": "projects/Project IBIS.html#solution",
+    "title": "Project IBIS",
+    "section": "Solution",
+    "text": "Solution\nWe developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don’t have access to. Local response teams have discretionary access to real time data including but not limited to:\n\nIdentification and location of vulnerable residents\nMedical data of residents that adhere to HIPAA laws\nLocations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds\nLocations of relevant resources (food, water, other supplies)\n\nThis system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown."
   }
 ]

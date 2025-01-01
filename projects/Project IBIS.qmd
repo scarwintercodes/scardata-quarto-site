@@ -1,21 +1,32 @@
-
 ---
 title: "Project IBIS"
 description: "A brief description of Project Title 1 that summarizes key features and outcomes."
 date: "2024-03-15"
-image: "images/IBIS.png"  # Ensure the image path is correct
+image: images/IBIS.png  # Ensure the image path is correct
 categories: 
-  - "Category A"
-  - "Category B"
+  - "Context"
+  - "Challenge"
+  - "Solution"
 ---
 
-## Overview
+## Context
 
-This section provides an overview of Project Title 1, including its objectives and methodologies.
+During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system.
 
-## Key Features
+## Challenge
 
-- Feature 1
-- Feature 2
-- Feature 3
+Many Puerto Rican residents living in rural or mountainous areas do not have the means to safely and efficiently evacuate the island during a natural disaster. Furthermore, many rural residents cannot readily transport themselves to a hospital or shelter. In many cases, these residents are often too sick to drive themselves. If they have a designated family member or friend who can transport them, they would have to ensure the roads are clear for vehicles to pass through, which is all the more difficult during a natural disaster.
 
+## Solution
+
+We developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don't have access to. Local response teams have discretionary access to real time data including but not limited to:
+
+-   Identification and location of vulnerable residents
+
+-   Medical data of residents that adhere to HIPAA laws
+
+-   Locations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds
+
+-   Locations of relevant resources (food, water, other supplies)
+
+**This system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown.**
