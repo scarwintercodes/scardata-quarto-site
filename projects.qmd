@@ -7,7 +7,6 @@ listing:
   fields: 
     - title
     - description
-    - date
     - image
     - categories
   categories: true

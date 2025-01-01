@@ -6,8 +6,10 @@ website:
   navbar:
     search: true
     pinned: true
-    text: "Projects"
+    href: index.qmd
+    text: Home
     menu:
+      - about.qmd
       - project-ibis.qmd
       - yrbs-data-management.qmd
       - pandas.qmd
