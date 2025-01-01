@@ -3,11 +3,19 @@ project:
 
 website:
   title: "Scar Winter Kelsey | ScarData"
+      favicon: image
+   # google-analytics:
+   #  tracking-id:
+   #  anonymize-ip: true
   navbar:
+    title: false
+    logo: ScarData logo
+    logo-alt: accessibility label
     search: true
     pinned: true
-    href: index.qmd
-    text: Home
+    right: 
+      - href: index.qmd
+       text: Home
     menu:
       - about.qmd
       - project-ibis.qmd
