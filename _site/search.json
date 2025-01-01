@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Scar Winter Kelsey | ScarData",
     "section": "",
-    "text": "page content excluded for brevity ~"
+    "text": "Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to update your resume using R and analyze complex survey data.\nThey have 9 years of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
   },
   {
     "objectID": "projects/YRBS Data Management.html",
@@ -121,6 +121,69 @@
   {
     "objectID": "projects/Project IBIS.html#solution",
     "href": "projects/Project IBIS.html#solution",
+    "title": "Project IBIS",
+    "section": "Solution",
+    "text": "Solution\nWe developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don’t have access to. Local response teams have discretionary access to real time data including but not limited to:\n\nIdentification and location of vulnerable residents\nMedical data of residents that adhere to HIPAA laws\nLocations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds\nLocations of relevant resources (food, water, other supplies)\n\nThis system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Scar Winter Kelsey | ScarData",
+    "section": "",
+    "text": "Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to update your resume using R and analyze complex survey data.\nThey have 9 years of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
+  },
+  {
+    "objectID": "index.html#services",
+    "href": "index.html#services",
+    "title": "Scar Winter Kelsey | ScarData",
+    "section": "Services",
+    "text": "Services\nScar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors."
+  },
+  {
+    "objectID": "projects/yrbs-data-management/index.qmd.html",
+    "href": "projects/yrbs-data-management/index.qmd.html",
+    "title": "YRBS Data Management",
+    "section": "",
+    "text": "This section provides an overview of Project Title 1, including its objectives and methodologies."
+  },
+  {
+    "objectID": "projects/yrbs-data-management/index.qmd.html#overview",
+    "href": "projects/yrbs-data-management/index.qmd.html#overview",
+    "title": "YRBS Data Management",
+    "section": "",
+    "text": "This section provides an overview of Project Title 1, including its objectives and methodologies."
+  },
+  {
+    "objectID": "projects/yrbs-data-management/index.qmd.html#key-features",
+    "href": "projects/yrbs-data-management/index.qmd.html#key-features",
+    "title": "YRBS Data Management",
+    "section": "Key Features",
+    "text": "Key Features\n\nFeature 1\nFeature 2\nFeature 3"
+  },
+  {
+    "objectID": "projects/project-ibis/index.qmd.html",
+    "href": "projects/project-ibis/index.qmd.html",
+    "title": "Project IBIS",
+    "section": "",
+    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
+  },
+  {
+    "objectID": "projects/project-ibis/index.qmd.html#context",
+    "href": "projects/project-ibis/index.qmd.html#context",
+    "title": "Project IBIS",
+    "section": "",
+    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
+  },
+  {
+    "objectID": "projects/project-ibis/index.qmd.html#challenge",
+    "href": "projects/project-ibis/index.qmd.html#challenge",
+    "title": "Project IBIS",
+    "section": "Challenge",
+    "text": "Challenge\nMany Puerto Rican residents living in rural or mountainous areas do not have the means to safely and efficiently evacuate the island during a natural disaster. Furthermore, many rural residents cannot readily transport themselves to a hospital or shelter. In many cases, these residents are often too sick to drive themselves. If they have a designated family member or friend who can transport them, they would have to ensure the roads are clear for vehicles to pass through, which is all the more difficult during a natural disaster."
+  },
+  {
+    "objectID": "projects/project-ibis/index.qmd.html#solution",
+    "href": "projects/project-ibis/index.qmd.html#solution",
     "title": "Project IBIS",
     "section": "Solution",
     "text": "Solution\nWe developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don’t have access to. Local response teams have discretionary access to real time data including but not limited to:\n\nIdentification and location of vulnerable residents\nMedical data of residents that adhere to HIPAA laws\nLocations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds\nLocations of relevant resources (food, water, other supplies)\n\nThis system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown."
