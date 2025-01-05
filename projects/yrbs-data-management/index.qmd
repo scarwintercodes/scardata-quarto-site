@@ -2,18 +2,21 @@
 title: "YRBS Data Management"
 description: "A brief description of Project Title 1 that summarizes key features and outcomes."
 date: "2024-03-15"
-image: "images/project1.png"  # Ensure the image path is correct
+image: images/EDIT.png  # Ensure the image path is correct
 categories: 
-  - "Category A"
-  - "Category B"
+  - "Context"
+  - "Challenge"
+  - "Solution"
 ---
 
-## Overview
+## Context
 
-This section provides an overview of Project Title 1, including its objectives and methodologies.
+The Youth Risk Behavior Survey is a bi-yearly survey conducted by the CDC across United States high schools. The [EDIT Team](https://www.editnorthwestern.com/research#yrbs-ro1) within Northwestern University’s Feinberg School of Medicine uses these results to illuminate and affirm the experiences of sexual minority youth (SMY), especially those living at the intersections of multiply marginalized identities of sex and race/ethnicity.
 
-## Key Features
+## Challenge
 
--   Feature 1
--   Feature 2
--   Feature 3
+The Northwestern EDIT team works extensively to integrate new YRBS data with our pre-existing pooled datasets which span back to 2005. We additionally collaborate with several municipalities to draft Data Usage Agreements to grant us permission to use their own version of the YRBS. Our original analytic stack only consisted of SAS and STATA, both closed-source languages with limited analytical capabilities. **Our large collection of data necessitates more efficient ways to explore, clean, and analyze the data.**
+
+## Solution
+
+I led the charge to expand our analytical stack to include R, which has open source capabilities to speed up analysis timelines and expand our analytical capabilities. **We extensively tested the [survey package](https://www.rdocumentation.org/packages/survey/versions/4.4-2) to ensure the data was properly weighted to control population variation across jurisdictions.** Additionally, our team has drafted several SOP’s to standardize our data integration process and translate analytical techniques across SAS, STATA, and R.

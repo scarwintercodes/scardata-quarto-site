@@ -1,6 +1,6 @@
 ---
 title: "Data Validation Automation"
-description: "A brief description of Project Title 1 that summarizes key features and outcomes."
+description: "Automating data validation in NumPy and pandas for clinical data"
 image: images/pandas.png  # Ensure the image path is correct
 categories: 
   - "Context"
