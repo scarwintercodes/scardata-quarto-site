@@ -1,8 +1,7 @@
 ---
-title: "Project IBIS"
+title: "Data Validation Automation"
 description: "A brief description of Project Title 1 that summarizes key features and outcomes."
-date: "2024-03-15"
-image: images/IBIS.png  # Ensure the image path is correct
+image: images/pandas.png  # Ensure the image path is correct
 categories: 
   - "Context"
   - "Challenge"
@@ -11,22 +10,12 @@ categories:
 
 ## Context
 
-During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system.
+We worked with millions of rows of messy, user-input data. This data needed to be validated and cleaned before it entered our ETL software.
 
 ## Challenge
 
-Many Puerto Rican residents living in rural or mountainous areas do not have the means to safely and efficiently evacuate the island during a natural disaster. Furthermore, many rural residents cannot readily transport themselves to a hospital or shelter. In many cases, these residents are often too sick to drive themselves. If they have a designated family member or friend who can transport them, they would have to ensure the roads are clear for vehicles to pass through, which is all the more difficult during a natural disaster.
+The data validation and cleaning process was highly manual: changing values in Excel to match the expected input within our internal system. There was no universal validation standard, which left large room for error. **Data validation took 3 business days to complete,** which was an exceptionally long time based on team size and capacity.
 
 ## Solution
 
-We developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don't have access to. Local response teams have discretionary access to real time data including but not limited to:
-
--   Identification and location of vulnerable residents
-
--   Medical data of residents that adhere to HIPAA laws
-
--   Locations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds
-
--   Locations of relevant resources (food, water, other supplies)
-
-**This system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown.**
+We utilized Python to write functions to standardize and automate the data validation and cleaning process. We used the **pandas** and **NumPy** libraries to conduct the essential data analysis tasks. These included validating data for accurate totals, flagging anomalies associated with operating costs, and ensuring completeness in critical fields (e.g. ID numbers, department codes, dates, etc.) Scripts scanned selected files we received from clients, flagged discrepancies, and normalized the files into a format we could then review and load into our ETL system much sooner. **Data validation time was cut by 50%.**
