@@ -1,8 +1,7 @@
 ---
 title: "YRBS Data Management"
-description: "A brief description of Project Title 1 that summarizes key features and outcomes."
-date: "2024-03-15"
-image: images/EDIT.png  # Ensure the image path is correct
+description: "Data modernization, management, and governance standards"
+image: images/EDIT.jpg  # Ensure the image path is correct
 categories: 
   - "Context"
   - "Challenge"

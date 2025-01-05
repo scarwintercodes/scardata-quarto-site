@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Scar Winter Kelsey | ScarData",
     "section": "",
-    "text": "title: “Projects” toc: false listing: contents: talks type: default image-align: left fields: - title - description - image - categories categories: true sort: “date desc” page-size: 4"
+    "text": "title: “Projects” subtitle: “My featured work” toc: false listing: contents: projects type: grid sort: “date desc” image-align: left grid-item-border: true grid-item-align: left fields: - title - description - image - categories categories: true sort: “date desc” page-size: 4 page-layout: full title-block-banner: true"
   },
   {
     "objectID": "projects/Project IBIS.html",
@@ -187,5 +187,89 @@
     "title": "Project IBIS",
     "section": "Solution",
     "text": "Solution\nWe developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don’t have access to. Local response teams have discretionary access to real time data including but not limited to:\n\nIdentification and location of vulnerable residents\nMedical data of residents that adhere to HIPAA laws\nLocations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds\nLocations of relevant resources (food, water, other supplies)\n\nThis system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown."
+  },
+  {
+    "objectID": "projects/yrbs-data-management/index.html",
+    "href": "projects/yrbs-data-management/index.html",
+    "title": "YRBS Data Management",
+    "section": "",
+    "text": "The Youth Risk Behavior Survey is a bi-yearly survey conducted by the CDC across United States high schools. The EDIT Team within Northwestern University’s Feinberg School of Medicine uses these results to illuminate and affirm the experiences of sexual minority youth (SMY), especially those living at the intersections of multiply marginalized identities of sex and race/ethnicity."
+  },
+  {
+    "objectID": "projects/yrbs-data-management/index.html#context",
+    "href": "projects/yrbs-data-management/index.html#context",
+    "title": "YRBS Data Management",
+    "section": "",
+    "text": "The Youth Risk Behavior Survey is a bi-yearly survey conducted by the CDC across United States high schools. The EDIT Team within Northwestern University’s Feinberg School of Medicine uses these results to illuminate and affirm the experiences of sexual minority youth (SMY), especially those living at the intersections of multiply marginalized identities of sex and race/ethnicity."
+  },
+  {
+    "objectID": "projects/yrbs-data-management/index.html#challenge",
+    "href": "projects/yrbs-data-management/index.html#challenge",
+    "title": "YRBS Data Management",
+    "section": "Challenge",
+    "text": "Challenge\nThe Northwestern EDIT team works extensively to integrate new YRBS data with our pre-existing pooled datasets which span back to 2005. We additionally collaborate with several municipalities to draft Data Usage Agreements to grant us permission to use their own version of the YRBS. Our original analytic stack only consisted of SAS and STATA, both closed-source languages with limited analytical capabilities. Our large collection of data necessitates more efficient ways to explore, clean, and analyze the data."
+  },
+  {
+    "objectID": "projects/yrbs-data-management/index.html#solution",
+    "href": "projects/yrbs-data-management/index.html#solution",
+    "title": "YRBS Data Management",
+    "section": "Solution",
+    "text": "Solution\nI led the charge to expand our analytical stack to include R, which has open source capabilities to speed up analysis timelines and expand our analytical capabilities. We extensively tested the survey package to ensure the data was properly weighted to control population variation across jurisdictions. Additionally, our team has drafted several SOP’s to standardize our data integration process and translate analytical techniques across SAS, STATA, and R."
+  },
+  {
+    "objectID": "projects/project-ibis/index.html",
+    "href": "projects/project-ibis/index.html",
+    "title": "Project IBIS",
+    "section": "",
+    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
+  },
+  {
+    "objectID": "projects/project-ibis/index.html#context",
+    "href": "projects/project-ibis/index.html#context",
+    "title": "Project IBIS",
+    "section": "",
+    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
+  },
+  {
+    "objectID": "projects/project-ibis/index.html#challenge",
+    "href": "projects/project-ibis/index.html#challenge",
+    "title": "Project IBIS",
+    "section": "Challenge",
+    "text": "Challenge\nMany Puerto Rican residents living in rural or mountainous areas do not have the means to safely and efficiently evacuate the island during a natural disaster. Furthermore, many rural residents cannot readily transport themselves to a hospital or shelter. In many cases, these residents are often too sick to drive themselves. If they have a designated family member or friend who can transport them, they would have to ensure the roads are clear for vehicles to pass through, which is all the more difficult during a natural disaster."
+  },
+  {
+    "objectID": "projects/project-ibis/index.html#solution",
+    "href": "projects/project-ibis/index.html#solution",
+    "title": "Project IBIS",
+    "section": "Solution",
+    "text": "Solution\nWe developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don’t have access to. Local response teams have discretionary access to real time data including but not limited to:\n\nIdentification and location of vulnerable residents\nMedical data of residents that adhere to HIPAA laws\nLocations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds\nLocations of relevant resources (food, water, other supplies)\n\nThis system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown."
+  },
+  {
+    "objectID": "projects/pandas/index.html",
+    "href": "projects/pandas/index.html",
+    "title": "Data Validation Automation",
+    "section": "",
+    "text": "We worked with millions of rows of messy, user-input data. This data needed to be validated and cleaned before it entered our ETL software."
+  },
+  {
+    "objectID": "projects/pandas/index.html#context",
+    "href": "projects/pandas/index.html#context",
+    "title": "Data Validation Automation",
+    "section": "",
+    "text": "We worked with millions of rows of messy, user-input data. This data needed to be validated and cleaned before it entered our ETL software."
+  },
+  {
+    "objectID": "projects/pandas/index.html#challenge",
+    "href": "projects/pandas/index.html#challenge",
+    "title": "Data Validation Automation",
+    "section": "Challenge",
+    "text": "Challenge\nThe data validation and cleaning process was highly manual: changing values in Excel to match the expected input within our internal system. There was no universal validation standard, which left large room for error. Data validation took 3 business days to complete, which was an exceptionally long time based on team size and capacity."
+  },
+  {
+    "objectID": "projects/pandas/index.html#solution",
+    "href": "projects/pandas/index.html#solution",
+    "title": "Data Validation Automation",
+    "section": "Solution",
+    "text": "Solution\nWe utilized Python to write functions to standardize and automate the data validation and cleaning process. We used the pandas and NumPy libraries to conduct the essential data analysis tasks. These included validating data for accurate totals, flagging anomalies associated with operating costs, and ensuring completeness in critical fields (e.g. ID numbers, department codes, dates, etc.) Scripts scanned selected files we received from clients, flagged discrepancies, and normalized the files into a format we could then review and load into our ETL system much sooner. Data validation time was cut by 50%."
   }
 ]
