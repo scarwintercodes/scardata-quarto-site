@@ -79,9 +79,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-description','listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -171,14 +171,14 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page-left">
+    <div class="quarto-title column-page">
       <h1 class="title">Projects</h1>
-            <p class="subtitle lead">My featured work</p>
+            <p class="subtitle lead">Featured projects</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page-left">
+  <div class="quarto-title-meta column-page">
 
       
     
@@ -189,10 +189,9 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Challenge">Challenge <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Context">Context <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Solution">Solution <span class="quarto-category-count">(3)</span></div></div></div>
+    
 <!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
 
@@ -204,29 +203,23 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Context,Challenge,Solution" data-listing-file-modified-sort="1736185792766" data-listing-reading-time-sort="1" data-listing-word-count-sort="170">
+<div class="g-col-1" data-index="0" data-categories="Context,Challenge,Solution" data-listing-file-modified-sort="1736205798238" data-listing-reading-time-sort="1" data-listing-word-count-sort="170">
 <a href="./projects/pandas/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./projects/pandas/images/pandas.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/pandas/pandas.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Data Validation Automation
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Context'); return false;">
-Context
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Challenge'); return false;">
-Challenge
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Solution'); return false;">
-Solution
-</div>
-</div>
 <div class="card-text listing-description">
 Automating data validation in NumPy and pandas for clinical data
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
 </div>
 </div>
 </div>
@@ -242,47 +235,38 @@ Automating data validation in NumPy and pandas for clinical data
 <h5 class="no-anchor card-title listing-title">
 YRBS Data Management
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Context'); return false;">
-Context
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Challenge'); return false;">
-Challenge
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Solution'); return false;">
-Solution
-</div>
-</div>
 <div class="card-text listing-description">
 Data modernization, management, and governance standards
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="Context,Challenge,Solution" data-listing-date-sort="1710478800000" data-listing-file-modified-sort="1736185846456" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="247">
+<div class="g-col-1" data-index="2" data-categories="Context,Challenge,Solution" data-listing-date-sort="1710478800000" data-listing-file-modified-sort="1736205825975" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="247">
 <a href="./projects/project-ibis/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./projects/project-ibis/images/IBIS.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/project-ibis/IBIS.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 Project IBIS
 </h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Context'); return false;">
-Context
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Challenge'); return false;">
-Challenge
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Solution'); return false;">
-Solution
-</div>
-</div>
 <div class="card-text listing-description">
 A brief description of Project Title 1 that summarizes key features and outcomes.
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Mar 15, 2024
+</div>
 </div>
 </div>
 </div>

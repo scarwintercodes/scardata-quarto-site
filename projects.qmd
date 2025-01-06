@@ -1,21 +1,18 @@
 ---
 title: "Projects"
-subtitle: "My featured work"
-toc: false
+subtitle: "Featured projects" 
 listing:
   contents: projects
-  type: grid
+  feed: true
   sort: "date desc"
-  image-align: left
+  type: grid
   grid-item-border: true
   grid-item-align: left
-  fields: 
-    - title
-    - description
-    - image
-    - categories
-  categories: true
-  page-size: 4
+  max-description-length: 175
+  date-format: medium
+  #categories: numbered
+  sort-ui: false
+  filter-ui: false
 page-layout: full
 title-block-banner: true
 ---

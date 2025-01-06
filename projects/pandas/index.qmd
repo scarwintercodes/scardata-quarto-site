@@ -1,7 +1,7 @@
 ---
 title: "Data Validation Automation"
 description: "Automating data validation in NumPy and pandas for clinical data"
-image: images/pandas.jpg
+image: pandas.jpg
 categories: 
   - "Context"
   - "Challenge"
