@@ -4,7 +4,7 @@ project:
 website:
   title: "Scar Winter Kelsey | ScarData"
   navbar:
-    title: false
+    title: true
     search: true
     pinned: true
     right: 
@@ -17,6 +17,9 @@ website:
         
       - href: resources.qmd
         text: Resources
+        
+      - href: sharing-ideas.qmd
+        text: Sharing Ideas
     
 format:
   html:

@@ -3,8 +3,8 @@
     "listing": "/projects.html",
     "items": [
       "/projects/pandas/index.html",
-      "/projects/yrbs-data-management/index.html",
-      "/projects/project-ibis/index.html"
+      "/projects/project-ibis/index.html",
+      "/projects/yrbs-data-management/index.html"
     ]
   }
 ]
