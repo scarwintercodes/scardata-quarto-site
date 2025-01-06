@@ -7,13 +7,7 @@ about:
   template: jolla
   image-shape: round
   image-width: 17em
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/scar-wk
-    - text: GitHub
-      href: https://github.com/scarwintercodes
-    - text: Email
-      href: mailto:scarwinterkelsey@gmail.com
+
 ---
         
 
@@ -33,5 +27,4 @@ Scar is available to work with individuals, non-profits, corporations, and unive
 
 ::: {#landing-icons}
 [{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/scar-wk/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/scarwintercodes){target="_blank"} &nbsp; [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/scardata.bsky.social){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:scarwinterkelsey@gmail.com)
-:::
 :::
