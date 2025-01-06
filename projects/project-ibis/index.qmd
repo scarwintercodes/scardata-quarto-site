@@ -2,7 +2,7 @@
 title: "Project IBIS"
 description: "A brief description of Project Title 1 that summarizes key features and outcomes."
 date: "2024-03-15"
-image: images/IBIS.png  # Ensure the image path is correct
+image: images/IBIS.jpg
 categories: 
   - "Context"
   - "Challenge"

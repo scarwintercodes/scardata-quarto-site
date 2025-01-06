@@ -1,7 +1,7 @@
 ---
 title: "YRBS Data Management"
 description: "Data modernization, management, and governance standards"
-image: images/EDIT.jpg  # Ensure the image path is correct
+image: EDIT.png
 categories: 
   - "Context"
   - "Challenge"

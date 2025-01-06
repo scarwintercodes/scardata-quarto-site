@@ -15,7 +15,6 @@ listing:
     - image
     - categories
   categories: true
-  sort: "date desc"
   page-size: 4
 page-layout: full
 title-block-banner: true

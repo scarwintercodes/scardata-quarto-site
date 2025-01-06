@@ -2,9 +2,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Scar Winter Kelsey | ScarData",
+    "title": "Projects",
     "section": "",
-    "text": "title: “Projects” subtitle: “My featured work” toc: false listing: contents: projects type: grid sort: “date desc” image-align: left grid-item-border: true grid-item-align: left fields: - title - description - image - categories categories: true sort: “date desc” page-size: 4 page-layout: full title-block-banner: true"
+    "text": "Data Validation Automation\n\n\n\nContext\n\n\nChallenge\n\n\nSolution\n\n\n\nAutomating data validation in NumPy and pandas for clinical data\n\n\n\n\n\n\n\n\n\n\n\n\n\nYRBS Data Management\n\n\n\nContext\n\n\nChallenge\n\n\nSolution\n\n\n\nData modernization, management, and governance standards\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject IBIS\n\n\n\nContext\n\n\nChallenge\n\n\nSolution\n\n\n\nA brief description of Project Title 1 that summarizes key features and outcomes.\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/Project IBIS.html",
