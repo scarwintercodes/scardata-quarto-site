@@ -271,5 +271,19 @@
     "title": "Data Validation Automation",
     "section": "Solution",
     "text": "Solution\nWe utilized Python to write functions to standardize and automate the data validation and cleaning process. We used the pandas and NumPy libraries to conduct the essential data analysis tasks. These included validating data for accurate totals, flagging anomalies associated with operating costs, and ensuring completeness in critical fields (e.g. ID numbers, department codes, dates, etc.) Scripts scanned selected files we received from clients, flagged discrepancies, and normalized the files into a format we could then review and load into our ETL system much sooner. Data validation time was cut by 50%."
+  },
+  {
+    "objectID": "sharing-ideas/sharing-ideas.html",
+    "href": "sharing-ideas/sharing-ideas.html",
+    "title": "Sharing Ideas",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "sharing-ideas.html",
+    "href": "sharing-ideas.html",
+    "title": "Sharing Ideas",
+    "section": "",
+    "text": "Sharing Ideas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

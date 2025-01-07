@@ -6,5 +6,15 @@
       "/projects/project-ibis/index.html",
       "/projects/yrbs-data-management/index.html"
     ]
+  },
+  {
+    "listing": "/sharing-ideas/sharing-ideas.html",
+    "items": []
+  },
+  {
+    "listing": "/sharing-ideas.html",
+    "items": [
+      "/sharing-ideas/sharing-ideas.html"
+    ]
   }
 ]

@@ -3,8 +3,9 @@ project:
 
 website:
   title: "Scar Winter Kelsey | ScarData"
+  site-url: https://www.scardata.com
   navbar:
-    title: true
+    title: false
     search: true
     pinned: true
     right: 
