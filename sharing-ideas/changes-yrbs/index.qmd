@@ -1,5 +1,5 @@
 ---
-title: "Sharing Ideas"
+title: "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey"
 subtitle: "Podcasts, conferences, and articles" 
 listing:
   contents: sharing-ideas
