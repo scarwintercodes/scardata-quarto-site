@@ -1,18 +1,7 @@
 ---
-title: "Sharing Ideas"
-subtitle: "Podcasts, conferences, and articles" 
-listing:
-  contents: sharing-ideas
-  feed: true
-  sort: "date desc"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  #categories: numbered
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Dikayo Data Podcast"
+subtitle: "Podcast Appearances"
+date: July 2020
 ---
+
+My guest [appearance](https://www.dikayodata.com/datafemme/no-more-tables-all-of-the-seats) on Dikayo Data's S2E2 of her #DataFemme podcast alongside Jeremy Mason and Kalan Dawson to discuss bias in machine learning models, reconciling faulty data, and queer representation in tech.

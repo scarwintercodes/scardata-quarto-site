@@ -1,18 +1,7 @@
 ---
-title: "Sharing Ideas"
-subtitle: "Podcasts, conferences, and articles" 
-listing:
-  contents: sharing-ideas
-  feed: true
-  sort: "date desc"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  #categories: numbered
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Using R to Land the Job: A Resume-Building Tutorial using Pagedown"
+subtitle: "Speaking Roles"
+date: May 2020
 ---
+
+My talk "[Using R to Land the Job: A Resume-Building Tutorial using Pagedown](https://www.youtube.com/watch?v=xA7l7N2ktFk)", presented at SatRday Chicago 2020 virtual conference.

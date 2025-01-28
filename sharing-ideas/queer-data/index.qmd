@@ -1,6 +1,6 @@
 ---
-title: "Sharing Ideas"
-subtitle: "Podcasts, conferences, and articles" 
+title: "The Strengths and Limitations of Queer Data"
+subtitle: "Academic contributions" 
 date: July 2023
 ---
 

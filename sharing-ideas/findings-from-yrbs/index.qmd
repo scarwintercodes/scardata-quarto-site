@@ -1,18 +1,7 @@
 ---
-title: "Sharing Ideas"
-subtitle: "Podcasts, conferences, and articles" 
-listing:
-  contents: sharing-ideas
-  feed: true
-  sort: "date desc"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  #categories: numbered
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Findings from the 2019 Youth Risk Behavior Survey"
+subtitle: "Academic contributions"
+date: December 2022
 ---
+
+[Published](https://pubmed.ncbi.nlm.nih.gov/36540958/) in Heath Education & Behavior, 22 Dec 2022

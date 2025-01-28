@@ -1,18 +1,7 @@
 ---
-title: "Sharing Ideas"
-subtitle: "Podcasts, conferences, and articles" 
-listing:
-  contents: sharing-ideas
-  feed: true
-  sort: "date desc"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  #categories: numbered
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "The Double-Edged Sword of Queer Data"
+subtitle: "Articles"
+date: June 2022
 ---
+
+My [piece](https://aea365.org/blog/lgbt-issues-tig-week-the-double-edged-sword-of-queer-data-by-scar-winter-kelsey/) for the American Evaluation Association discussing the pros and cons of LGBTQ+ data collection.

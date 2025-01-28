@@ -1,18 +1,7 @@
 ---
-title: "Sharing Ideas"
-subtitle: "Podcasts, conferences, and articles" 
-listing:
-  contents: sharing-ideas
-  feed: true
-  sort: "date desc"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  #categories: numbered
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Data Mishaps Night"
+subtitle: "Speaking Roles"
+date: February 2021
 ---
+
+I spoke at the inaugural [Data Mishaps Night](https://datamishapsnight.com/past-events/2021-event/) on some of the classic ways data analysis can go wrong!
