@@ -10,7 +10,7 @@
 <atom:link href="https://www.scardata.com/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 06 Jan 2025 23:58:26 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jan 2025 22:07:51 GMT</lastBuildDate>
 <item>
   <title>Data Validation Automation</title>
   <link>https://www.scardata.com/projects/pandas/</link>
@@ -39,7 +39,7 @@
   <category>Challenge</category>
   <category>Solution</category>
   <guid>https://www.scardata.com/projects/pandas/</guid>
-  <pubDate>Mon, 06 Jan 2025 23:58:26 GMT</pubDate>
+  <pubDate>Tue, 28 Jan 2025 22:07:51 GMT</pubDate>
   <media:content url="https://www.scardata.com/projects/pandas/pandas.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -77,7 +77,7 @@
   <category>Challenge</category>
   <category>Solution</category>
   <guid>https://www.scardata.com/projects/project-ibis/</guid>
-  <pubDate>Mon, 06 Jan 2025 23:58:26 GMT</pubDate>
+  <pubDate>Tue, 28 Jan 2025 22:07:51 GMT</pubDate>
   <media:content url="https://www.scardata.com/projects/project-ibis/IBIS.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -108,7 +108,7 @@
   <category>Challenge</category>
   <category>Solution</category>
   <guid>https://www.scardata.com/projects/yrbs-data-management/</guid>
-  <pubDate>Mon, 06 Jan 2025 23:58:26 GMT</pubDate>
+  <pubDate>Tue, 28 Jan 2025 22:07:51 GMT</pubDate>
   <media:content url="https://www.scardata.com/projects/yrbs-data-management/EDIT.png" medium="image" type="image/png" height="59" width="144"/>
 </item>
 </channel>

@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://www.scardata.com/sharing-ideas.html</loc>
-    <lastmod>2025-01-06T23:34:11.857Z</lastmod>
+    <lastmod>2025-01-21T20:10:47.752Z</lastmod>
   </url>
   <url>
     <loc>https://www.scardata.com/sharing-ideas/sharing-ideas.html</loc>
-    <lastmod>2025-01-06T23:49:22.114Z</lastmod>
+    <lastmod>2025-01-21T20:10:47.752Z</lastmod>
   </url>
   <url>
     <loc>https://www.scardata.com/projects.html</loc>
@@ -15,5 +15,77 @@
   <url>
     <loc>https://www.scardata.com/about.html</loc>
     <lastmod>2025-01-01T22:47:03.016Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/using-r-to-land-the-job/index.html</loc>
+    <lastmod>2025-01-29T00:16:10.926Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/queer-data/index.html</loc>
+    <lastmod>2025-01-29T00:18:03.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/findings-from-yrbs/index.html</loc>
+    <lastmod>2025-01-29T00:17:27.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/dikayo-data/index.html</loc>
+    <lastmod>2025-01-29T00:16:04.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/changes-yrbs/index.html</loc>
+    <lastmod>2025-01-29T00:16:40.861Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/resources.html</loc>
+    <lastmod>2025-01-28T21:53:43.221Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/data-mishaps/index.html</loc>
+    <lastmod>2025-01-29T00:16:18.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/double-edged-sword/index.html</loc>
+    <lastmod>2025-01-29T00:17:05.081Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/native-students/index.html</loc>
+    <lastmod>2025-01-29T00:15:24.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/index.html</loc>
+    <lastmod>2025-01-06T20:01:41.668Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/7. data-mishaps/index.html</loc>
+    <lastmod>2025-01-29T00:16:18.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/5. double-edged-sword/index.html</loc>
+    <lastmod>2025-01-29T00:17:05.081Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/3. native-students/index.html</loc>
+    <lastmod>2025-01-29T00:15:24.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/1. changes-yrbs/index.html</loc>
+    <lastmod>2025-01-29T00:25:19.988Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/2. queer-data/index.html</loc>
+    <lastmod>2025-01-29T00:18:03.200Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/4. findings-from-yrbs/index.html</loc>
+    <lastmod>2025-01-29T00:17:27.323Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/6. dikayo-data/index.html</loc>
+    <lastmod>2025-01-29T00:16:04.999Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.scardata.com/sharing-ideas/8. using-r-to-land-the-job/index.html</loc>
+    <lastmod>2025-01-29T00:16:10.926Z</lastmod>
   </url>
 </urlset>

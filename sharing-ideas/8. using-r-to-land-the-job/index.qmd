@@ -1,7 +1,6 @@
 ---
-title: "Using R to Land the Job: A Resume-Building Tutorial using Pagedown"
+title: "Using R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020"
 subtitle: "Speaking Roles"
-date: May 2020
 ---
 
 My talk "[Using R to Land the Job: A Resume-Building Tutorial using Pagedown](https://www.youtube.com/watch?v=xA7l7N2ktFk)", presented at SatRday Chicago 2020 virtual conference.

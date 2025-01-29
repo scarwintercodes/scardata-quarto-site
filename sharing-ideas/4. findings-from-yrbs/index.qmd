@@ -1,7 +1,6 @@
 ---
-title: "Findings from the 2019 Youth Risk Behavior Survey"
+title: "Findings from the 2019 Youth Risk Behavior Survey - Dec. 2022"
 subtitle: "Academic contributions"
-date: December 2022
 ---
 
 [Published](https://pubmed.ncbi.nlm.nih.gov/36540958/) in Heath Education & Behavior, 22 Dec 2022

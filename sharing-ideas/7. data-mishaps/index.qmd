@@ -1,7 +1,6 @@
 ---
-title: "Data Mishaps Night"
+title: "Data Mishaps Night - Feb. 2021"
 subtitle: "Speaking Roles"
-date: February 2021
 ---
 
 I spoke at the inaugural [Data Mishaps Night](https://datamishapsnight.com/past-events/2021-event/) on some of the classic ways data analysis can go wrong!

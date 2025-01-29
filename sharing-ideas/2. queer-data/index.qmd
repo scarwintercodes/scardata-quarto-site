@@ -1,7 +1,6 @@
 ---
-title: "The Strengths and Limitations of Queer Data"
+title: "The Strengths and Limitations of Queer Data - July 2023"
 subtitle: "Academic contributions" 
-date: July 2023
 ---
 
 Kevin Guyan, the author of "Queer Data: Using Gender, Sex and Sexuality Data for Action" and I [discuss](https://www.youtube.com/watch?v=FX3E7VC2BrQ) who gets to be in the room to tell our stories, who should be in the room, and how to highlight queer joy within data.

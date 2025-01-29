@@ -1,7 +1,6 @@
 ---
-title: "The Double-Edged Sword of Queer Data"
+title: "The Double-Edged Sword of Queer Data - June 2022"
 subtitle: "Articles"
-date: June 2022
 ---
 
 My [piece](https://aea365.org/blog/lgbt-issues-tig-week-the-double-edged-sword-of-queer-data-by-scar-winter-kelsey/) for the American Evaluation Association discussing the pros and cons of LGBTQ+ data collection.

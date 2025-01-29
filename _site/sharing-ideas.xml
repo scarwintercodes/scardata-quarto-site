@@ -10,30 +10,135 @@
 <atom:link href="https://www.scardata.com/sharing-ideas.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Mon, 06 Jan 2025 23:57:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Jan 2025 00:25:59 GMT</lastBuildDate>
 <item>
-  <title>Sharing Ideas</title>
-  <link>https://www.scardata.com/sharing-ideas/sharing-ideas.html</link>
+  <title>Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - July 2023</title>
+  <link>https://www.scardata.com/sharing-ideas/1. changes-yrbs/</link>
   <description><![CDATA[ 
 
 
 
 
+<p>For the 2021 YRBS, the CDC expanded how they capture sexual identity data. Our team explores this change and provides recommendations for consistent reporting in <a href="https://drive.google.com/file/d/1sbM5OZYBKsJ6I3eBtE1JbICRg5HLlrXq/view?usp=sharing">JAMA Pediatrics</a>.</p>
+
+
+
+ ]]></description>
+  <guid>https://www.scardata.com/sharing-ideas/1. changes-yrbs/</guid>
+  <pubDate>Wed, 29 Jan 2025 00:25:59 GMT</pubDate>
+</item>
+<item>
+  <title>The Strengths and Limitations of Queer Data - July 2023</title>
+  <link>https://www.scardata.com/sharing-ideas/2. queer-data/</link>
+  <description><![CDATA[ 
 
 
 
 
+<p>Kevin Guyan, the author of “Queer Data: Using Gender, Sex and Sexuality Data for Action” and I <a href="https://www.youtube.com/watch?v=FX3E7VC2BrQ">discuss</a> who gets to be in the room to tell our stories, who should be in the room, and how to highlight queer joy within data.</p>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
 
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div> ]]></description>
-  <guid>https://www.scardata.com/sharing-ideas/sharing-ideas.html</guid>
-  <pubDate>Mon, 06 Jan 2025 23:57:08 GMT</pubDate>
+
+ ]]></description>
+  <guid>https://www.scardata.com/sharing-ideas/2. queer-data/</guid>
+  <pubDate>Wed, 29 Jan 2025 00:25:59 GMT</pubDate>
+</item>
+<item>
+  <title>Native American Students &amp; LGBTQ+ Identity - Dec. 2023</title>
+  <link>https://www.scardata.com/sharing-ideas/3. native-students/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://doi.org/10.1016/j.jadohealth.2023.07.020">Journal of Adolescent Health</a></p>
+<p>Volume 73, Issue 6, December 2023</p>
+
+
+
+ ]]></description>
+  <guid>https://www.scardata.com/sharing-ideas/3. native-students/</guid>
+  <pubDate>Wed, 29 Jan 2025 00:25:59 GMT</pubDate>
+</item>
+<item>
+  <title>Findings from the 2019 Youth Risk Behavior Survey - December 2022</title>
+  <link>https://www.scardata.com/sharing-ideas/4. findings-from-yrbs/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/36540958/">Published</a> in Heath Education &amp; Behavior, 22 Dec 2022</p>
+
+
+
+ ]]></description>
+  <guid>https://www.scardata.com/sharing-ideas/4. findings-from-yrbs/</guid>
+  <pubDate>Wed, 29 Jan 2025 00:25:59 GMT</pubDate>
+</item>
+<item>
+  <title>The Double-Edged Sword of Queer Data - June 2022</title>
+  <link>https://www.scardata.com/sharing-ideas/5. double-edged-sword/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>My <a href="https://aea365.org/blog/lgbt-issues-tig-week-the-double-edged-sword-of-queer-data-by-scar-winter-kelsey/">piece</a> for the American Evaluation Association discussing the pros and cons of LGBTQ+ data collection.</p>
+
+
+
+ ]]></description>
+  <guid>https://www.scardata.com/sharing-ideas/5. double-edged-sword/</guid>
+  <pubDate>Wed, 29 Jan 2025 00:25:59 GMT</pubDate>
+</item>
+<item>
+  <title>Dikayo Data Podcast - July 2020</title>
+  <link>https://www.scardata.com/sharing-ideas/6. dikayo-data/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>My guest <a href="https://www.dikayodata.com/datafemme/no-more-tables-all-of-the-seats">appearance</a> on Dikayo Data’s S2E2 of her #DataFemme podcast alongside Jeremy Mason and Kalan Dawson to discuss bias in machine learning models, reconciling faulty data, and queer representation in tech.</p>
+
+
+
+ ]]></description>
+  <guid>https://www.scardata.com/sharing-ideas/6. dikayo-data/</guid>
+  <pubDate>Wed, 29 Jan 2025 00:25:59 GMT</pubDate>
+</item>
+<item>
+  <title>Data Mishaps Night - Feb. 2021</title>
+  <link>https://www.scardata.com/sharing-ideas/7. data-mishaps/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I spoke at the inaugural <a href="https://datamishapsnight.com/past-events/2021-event/">Data Mishaps Night</a> on some of the classic ways data analysis can go wrong!</p>
+
+
+
+ ]]></description>
+  <guid>https://www.scardata.com/sharing-ideas/7. data-mishaps/</guid>
+  <pubDate>Wed, 29 Jan 2025 00:25:59 GMT</pubDate>
+</item>
+<item>
+  <title>Using R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020</title>
+  <link>https://www.scardata.com/sharing-ideas/8. using-r-to-land-the-job/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>My talk “<a href="https://www.youtube.com/watch?v=xA7l7N2ktFk">Using R to Land the Job: A Resume-Building Tutorial using Pagedown</a>”, presented at SatRday Chicago 2020 virtual conference.</p>
+
+
+
+ ]]></description>
+  <guid>https://www.scardata.com/sharing-ideas/8. using-r-to-land-the-job/</guid>
+  <pubDate>Wed, 29 Jan 2025 00:25:59 GMT</pubDate>
 </item>
 </channel>
 </rss>

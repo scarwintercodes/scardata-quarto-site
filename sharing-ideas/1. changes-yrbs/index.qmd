@@ -1,7 +1,6 @@
 ---
-title: "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey"
+title: "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - July 2024"
 subtitle: "Academic contributions"
-date: July 2023
 ---
 
 For the 2021 YRBS, the CDC expanded how they capture sexual identity data. Our team explores this change and provides recommendations for consistent reporting in [JAMA Pediatrics](https://drive.google.com/file/d/1sbM5OZYBKsJ6I3eBtE1JbICRg5HLlrXq/view?usp=sharing).

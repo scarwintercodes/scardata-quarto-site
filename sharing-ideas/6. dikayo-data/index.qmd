@@ -1,7 +1,6 @@
 ---
-title: "Dikayo Data Podcast"
+title: "Dikayo Data Podcast - July 2020"
 subtitle: "Podcast Appearances"
-date: July 2020
 ---
 
 My guest [appearance](https://www.dikayodata.com/datafemme/no-more-tables-all-of-the-seats) on Dikayo Data's S2E2 of her #DataFemme podcast alongside Jeremy Mason and Kalan Dawson to discuss bias in machine learning models, reconciling faulty data, and queer representation in tech.

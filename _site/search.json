@@ -102,7 +102,7 @@
     "href": "resources.html",
     "title": "R Tips and Tricks",
     "section": "",
-    "text": "https://ucsb-meds.github.io/creating-quarto-websites/"
+    "text": "The #rstats and climate communities are full of talented folks who’ve written very helpful guides and resources. I’ve compiled as many as I could and organized them by type of resources below.\nhttps://ucsb-meds.github.io/creating-quarto-websites/"
   },
   {
     "objectID": "projects/Project IBIS.html#context",
@@ -284,6 +284,118 @@
     "href": "sharing-ideas.html",
     "title": "Sharing Ideas",
     "section": "",
-    "text": "Sharing Ideas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - July 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Strengths and Limitations of Queer Data - July 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNative American Students & LGBTQ+ Identity - Dec. 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFindings from the 2019 Youth Risk Behavior Survey - December 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Double-Edged Sword of Queer Data - June 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDikayo Data Podcast - July 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Mishaps Night - Feb. 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "sharing-ideas/using-r-to-land-the-job/index.html",
+    "href": "sharing-ideas/using-r-to-land-the-job/index.html",
+    "title": "Using R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020",
+    "section": "",
+    "text": "My talk “Using R to Land the Job: A Resume-Building Tutorial using Pagedown”, presented at SatRday Chicago 2020 virtual conference."
+  },
+  {
+    "objectID": "sharing-ideas/queer-data/index.html",
+    "href": "sharing-ideas/queer-data/index.html",
+    "title": "The Strengths and Limitations of Queer Data - July 2023",
+    "section": "",
+    "text": "Kevin Guyan, the author of “Queer Data: Using Gender, Sex and Sexuality Data for Action” and I discuss who gets to be in the room to tell our stories, who should be in the room, and how to highlight queer joy within data."
+  },
+  {
+    "objectID": "sharing-ideas/findings-from-yrbs/index.html",
+    "href": "sharing-ideas/findings-from-yrbs/index.html",
+    "title": "Findings from the 2019 Youth Risk Behavior Survey - December 2022",
+    "section": "",
+    "text": "Published in Heath Education & Behavior, 22 Dec 2022"
+  },
+  {
+    "objectID": "sharing-ideas/dikayo-data/index.html",
+    "href": "sharing-ideas/dikayo-data/index.html",
+    "title": "Dikayo Data Podcast - July 2020",
+    "section": "",
+    "text": "My guest appearance on Dikayo Data’s S2E2 of her #DataFemme podcast alongside Jeremy Mason and Kalan Dawson to discuss bias in machine learning models, reconciling faulty data, and queer representation in tech."
+  },
+  {
+    "objectID": "sharing-ideas/changes-yrbs/index.html",
+    "href": "sharing-ideas/changes-yrbs/index.html",
+    "title": "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - July 2023",
+    "section": "",
+    "text": "For the 2021 YRBS, the CDC expanded how they capture sexual identity data. Our team explores this change and provides recommendations for consistent reporting in JAMA Pediatrics."
+  },
+  {
+    "objectID": "sharing-ideas/data-mishaps/index.html",
+    "href": "sharing-ideas/data-mishaps/index.html",
+    "title": "Data Mishaps Night - Feb. 2021",
+    "section": "",
+    "text": "I spoke at the inaugural Data Mishaps Night on some of the classic ways data analysis can go wrong!"
+  },
+  {
+    "objectID": "sharing-ideas/double-edged-sword/index.html",
+    "href": "sharing-ideas/double-edged-sword/index.html",
+    "title": "The Double-Edged Sword of Queer Data - June 2022",
+    "section": "",
+    "text": "My piece for the American Evaluation Association discussing the pros and cons of LGBTQ+ data collection."
+  },
+  {
+    "objectID": "sharing-ideas/native-students/index.html",
+    "href": "sharing-ideas/native-students/index.html",
+    "title": "Native American Students & LGBTQ+ Identity - Dec. 2023",
+    "section": "",
+    "text": "Journal of Adolescent Health\nVolume 73, Issue 6, December 2023"
+  },
+  {
+    "objectID": "sharing-ideas/7. data-mishaps/index.html",
+    "href": "sharing-ideas/7. data-mishaps/index.html",
+    "title": "Data Mishaps Night - Feb. 2021",
+    "section": "",
+    "text": "I spoke at the inaugural Data Mishaps Night on some of the classic ways data analysis can go wrong!"
+  },
+  {
+    "objectID": "sharing-ideas/5. double-edged-sword/index.html",
+    "href": "sharing-ideas/5. double-edged-sword/index.html",
+    "title": "The Double-Edged Sword of Queer Data - June 2022",
+    "section": "",
+    "text": "My piece for the American Evaluation Association discussing the pros and cons of LGBTQ+ data collection."
+  },
+  {
+    "objectID": "sharing-ideas/3. native-students/index.html",
+    "href": "sharing-ideas/3. native-students/index.html",
+    "title": "Native American Students & LGBTQ+ Identity - Dec. 2023",
+    "section": "",
+    "text": "Journal of Adolescent Health\nVolume 73, Issue 6, December 2023"
+  },
+  {
+    "objectID": "sharing-ideas/1. changes-yrbs/index.html",
+    "href": "sharing-ideas/1. changes-yrbs/index.html",
+    "title": "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - July 2023",
+    "section": "",
+    "text": "For the 2021 YRBS, the CDC expanded how they capture sexual identity data. Our team explores this change and provides recommendations for consistent reporting in JAMA Pediatrics."
+  },
+  {
+    "objectID": "sharing-ideas/2. queer-data/index.html",
+    "href": "sharing-ideas/2. queer-data/index.html",
+    "title": "The Strengths and Limitations of Queer Data - July 2023",
+    "section": "",
+    "text": "Kevin Guyan, the author of “Queer Data: Using Gender, Sex and Sexuality Data for Action” and I discuss who gets to be in the room to tell our stories, who should be in the room, and how to highlight queer joy within data."
+  },
+  {
+    "objectID": "sharing-ideas/4. findings-from-yrbs/index.html",
+    "href": "sharing-ideas/4. findings-from-yrbs/index.html",
+    "title": "Findings from the 2019 Youth Risk Behavior Survey - December 2022",
+    "section": "",
+    "text": "Published in Heath Education & Behavior, 22 Dec 2022"
+  },
+  {
+    "objectID": "sharing-ideas/6. dikayo-data/index.html",
+    "href": "sharing-ideas/6. dikayo-data/index.html",
+    "title": "Dikayo Data Podcast - July 2020",
+    "section": "",
+    "text": "My guest appearance on Dikayo Data’s S2E2 of her #DataFemme podcast alongside Jeremy Mason and Kalan Dawson to discuss bias in machine learning models, reconciling faulty data, and queer representation in tech."
+  },
+  {
+    "objectID": "sharing-ideas/8. using-r-to-land-the-job/index.html",
+    "href": "sharing-ideas/8. using-r-to-land-the-job/index.html",
+    "title": "Using R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020",
+    "section": "",
+    "text": "My talk “Using R to Land the Job: A Resume-Building Tutorial using Pagedown”, presented at SatRday Chicago 2020 virtual conference."
   }
 ]
