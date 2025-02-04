@@ -1,0 +1,23 @@
+---
+title: "Company Churn Analysis"
+description: "Outsoucing churn analysis and recommendations for an early edutech company"
+image: lukas-blazek-mcSDtbWXUZU-unsplash.jpg
+categories: 
+  - "Context"
+  - "Challenge"
+  - "Solution"
+---
+
+## Context
+
+Last March, I worked with an early education tech (edutech) company to help their engagement team learn more about churn trends and actionable steps to reduce it.
+
+## Challenge
+
+1.  What metrics would you recommend the engagement team track to monitor churn?
+2.  What are the key insights from the data?
+3.  The company is aiming to reduce churn by 20% over the next year. Based on the data provided, what strategies would you recommend?
+
+## Solution
+
+This [document](https://docs.google.com/document/d/1m7MQeXpGnzxUnlaGeJrGRPty_HFwiiTKbGbs-l_MQ00/edit?usp=drive_link) outlines the analysis I provided for 3 hours of work, including industry-specific research.
