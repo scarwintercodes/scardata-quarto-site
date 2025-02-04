@@ -1,6 +1,6 @@
 ---
 title: "Project IBIS"
-description: "A brief description of Project Title 1 that summarizes key features and outcomes."
+description: "Requirements analysis, data collection, and consulting for a community-driven, geospatial disaster relief information system"
 image: IBIS.jpg
 categories: 
   - "Context"
@@ -10,7 +10,7 @@ categories:
 
 ## Context
 
-During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system.
+During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geospatial, disaster relief information system.
 
 ## Challenge
 
