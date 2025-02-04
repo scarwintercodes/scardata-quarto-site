@@ -9,7 +9,7 @@ Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.
 
 Scar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to [update your resume using R](https://docs.google.com/presentation/d/1BL4XwjZAxTundKNl0gSqiyE8gPyLqnMoGcook-p8w-M/edit?usp=sharing) and [analyze complex survey data](https://drive.google.com/file/d/1buEWnRuy73skT0SfZ3DCiglhSewA0ROK/view?usp=sharing).
 
-They have 9 years of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.
+They have a decade of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.
 
 Throughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago.
 
