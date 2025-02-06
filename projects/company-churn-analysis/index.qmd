@@ -1,6 +1,6 @@
 ---
 title: "Company Churn Analysis"
-description: "Outsoucing churn analysis and recommendations for an early edutech company"
+description: "Providing churn analysis and recommendations for an early edutech company"
 image: lukas-blazek-mcSDtbWXUZU-unsplash.jpg
 categories: 
   - "Context"
