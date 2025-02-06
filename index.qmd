@@ -24,6 +24,7 @@ Scar is available to work with individuals, non-profits, corporations, and unive
 
 ::: {#landing-icons}
 [{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/scar-wk/){target="_blank"}   
-[{{< fa bookmark title="substack" >}}](https://www.scarthedatavillain.substack.com/){target="_blank"}  
-[{{< fa brands github title="github" >}}](https://github.com/scarwintercodes){target="_blank"}   [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/scardata.bsky.social){target="_blank"}   [{{< fa envelope title="envelope" >}}](mailto:scarwinterkelsey@gmail.com)
+[{{< fa bookmark title="substack" >}}](https://www.scarthedatavillain.substack.com/){target="_blank"}   
+[{{< fa brands github title="github" >}}](https://github.com/scarwintercodes){target="_blank"}   
+[{{< fa envelope title="envelope" >}}](mailto:scarwinterkelsey@gmail.com)
 :::
