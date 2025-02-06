@@ -7,8 +7,6 @@ about:
   template: jolla
   image-shape: round
   image-width: 17em
-theme: lux.css
-smooth-scroll: true
 ---
 
 ## About

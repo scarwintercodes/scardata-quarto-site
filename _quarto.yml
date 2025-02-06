@@ -25,8 +25,8 @@ website:
 format:
   html:
     theme: 
-      light: jolla
-      dark: solar
-    css: styles.css
-
+      - lux.scss
+    link-external-newwindow: true
+    smooth-scroll: true
+    
 editor: visual
