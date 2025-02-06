@@ -11,13 +11,12 @@ website:
     right: 
       - href: index.qmd
         text: Home
-      - about.qmd
       
       - href: projects.qmd
         text: Projects
         
-      - href: resources.qmd
-        text: Resources
+      #- href: resources.qmd
+      #  text: Resources
         
       - href: sharing-ideas.qmd
         text: Sharing Ideas
