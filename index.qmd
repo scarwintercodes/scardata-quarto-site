@@ -7,9 +7,9 @@ about:
   template: jolla
   image-shape: round
   image-width: 17em
-
+theme: lux.css
+smooth-scroll: true
 ---
-        
 
 ## About
 
@@ -26,5 +26,5 @@ Throughout their career, they’ve led the charge to enhance data management and
 Scar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors.
 
 ::: {#landing-icons}
-[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/scar-wk/){target="_blank"} &nbsp; [{{< fa brands github title="github" >}}](https://github.com/scarwintercodes){target="_blank"} &nbsp; [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/scardata.bsky.social){target="_blank"} &nbsp; [{{< fa envelope title="envelope" >}}](mailto:scarwinterkelsey@gmail.com)
+[{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/scar-wk/){target="_blank"}   [{{< fa brands github title="github" >}}](https://github.com/scarwintercodes){target="_blank"}   [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/scardata.bsky.social){target="_blank"}   [{{< fa envelope title="envelope" >}}](mailto:scarwinterkelsey@gmail.com)
 :::

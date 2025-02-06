@@ -3,9 +3,10 @@ title: "Sharing Ideas"
 subtitle: "Podcasts, conferences, and articles" 
 listing:
   contents: sharing-ideas
+  fields: [title]
   feed: true
   sort: "date desc"
-  type: grid
+  type: table
   grid-item-border: true
   grid-item-align: left
   max-description-length: 175
