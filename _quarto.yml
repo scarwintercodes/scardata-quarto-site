@@ -28,5 +28,6 @@ format:
       - lux.scss
     link-external-newwindow: true
     smooth-scroll: true
+    css: styles.scss
     
 editor: visual
