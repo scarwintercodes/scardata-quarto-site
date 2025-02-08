@@ -10,7 +10,42 @@
 <atom:link href="https://www.scardata.com/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Tue, 28 Jan 2025 22:07:51 GMT</lastBuildDate>
+<lastBuildDate>Thu, 06 Feb 2025 03:07:02 GMT</lastBuildDate>
+<item>
+  <title>Company Churn Analysis</title>
+  <link>https://www.scardata.com/projects/company-churn-analysis/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="context" class="level2">
+<h2 class="anchored" data-anchor-id="context">Context</h2>
+<p>In March 2024 I consulted an early education tech (edutech) company to help their engagement team learn more about churn trends and actionable steps to reduce it.</p>
+</section>
+<section id="challenge" class="level2">
+<h2 class="anchored" data-anchor-id="challenge">Challenge</h2>
+<ol type="1">
+<li>What metrics would you recommend the engagement team track to monitor churn?</li>
+<li>What are the key insights from the data?</li>
+<li>The company is aiming to reduce churn by 20% over the next year. Based on the data provided, what strategies would you recommend?</li>
+</ol>
+</section>
+<section id="solution" class="level2">
+<h2 class="anchored" data-anchor-id="solution">Solution</h2>
+<p>This <a href="https://docs.google.com/document/d/1m7MQeXpGnzxUnlaGeJrGRPty_HFwiiTKbGbs-l_MQ00/edit?usp=drive_link">document</a> outlines the analysis I provided for 3 hours of work, including conducting industry-specific research.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Context</category>
+  <category>Challenge</category>
+  <category>Solution</category>
+  <guid>https://www.scardata.com/projects/company-churn-analysis/</guid>
+  <pubDate>Thu, 06 Feb 2025 03:07:02 GMT</pubDate>
+  <media:content url="https://www.scardata.com/projects/company-churn-analysis/lukas-blazek-mcSDtbWXUZU-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Data Validation Automation</title>
   <link>https://www.scardata.com/projects/pandas/</link>
@@ -39,7 +74,7 @@
   <category>Challenge</category>
   <category>Solution</category>
   <guid>https://www.scardata.com/projects/pandas/</guid>
-  <pubDate>Tue, 28 Jan 2025 22:07:51 GMT</pubDate>
+  <pubDate>Thu, 06 Feb 2025 03:07:02 GMT</pubDate>
   <media:content url="https://www.scardata.com/projects/pandas/pandas.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -52,7 +87,7 @@
 
 <section id="context" class="level2">
 <h2 class="anchored" data-anchor-id="context">Context</h2>
-<p>During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system.</p>
+<p>During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geospatial, disaster relief information system.</p>
 </section>
 <section id="challenge" class="level2">
 <h2 class="anchored" data-anchor-id="challenge">Challenge</h2>
@@ -77,7 +112,7 @@
   <category>Challenge</category>
   <category>Solution</category>
   <guid>https://www.scardata.com/projects/project-ibis/</guid>
-  <pubDate>Tue, 28 Jan 2025 22:07:51 GMT</pubDate>
+  <pubDate>Thu, 06 Feb 2025 03:07:02 GMT</pubDate>
   <media:content url="https://www.scardata.com/projects/project-ibis/IBIS.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -108,7 +143,7 @@
   <category>Challenge</category>
   <category>Solution</category>
   <guid>https://www.scardata.com/projects/yrbs-data-management/</guid>
-  <pubDate>Tue, 28 Jan 2025 22:07:51 GMT</pubDate>
+  <pubDate>Thu, 06 Feb 2025 03:07:02 GMT</pubDate>
   <media:content url="https://www.scardata.com/projects/yrbs-data-management/EDIT.png" medium="image" type="image/png" height="59" width="144"/>
 </item>
 </channel>

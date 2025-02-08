@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Data Validation Automation\n\n\nAutomating data validation in NumPy and pandas for clinical data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject IBIS\n\n\nA brief description of Project Title 1 that summarizes key features and outcomes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYRBS Data Management\n\n\nData modernization, management, and governance standards\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Company Churn Analysis\n\n\nProviding churn analysis and recommendations for an early edutech company\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Validation Automation\n\n\nAutomating data validation in NumPy and pandas for clinical data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject IBIS\n\n\nRequirements analysis, data collection, and consulting for a community-driven, geospatial disaster relief information system\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYRBS Data Management\n\n\nData modernization, management, and governance standards\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/Project IBIS.html",
@@ -60,7 +60,7 @@
     "href": "index.html",
     "title": "Scar Winter Kelsey | ScarData",
     "section": "",
-    "text": "Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to update your resume using R and analyze complex survey data.\nThey have 9 years of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
+    "text": "Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to update your resume using R and analyze complex survey data.\nThey have a decade of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern University Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
   },
   {
     "objectID": "projects/YRBS Data Management.html",
@@ -137,7 +137,7 @@
     "href": "index.html#services",
     "title": "Scar Winter Kelsey | ScarData",
     "section": "Services",
-    "text": "Services\nScar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors."
+    "text": "Services\nScar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors. Check out their past projects here."
   },
   {
     "objectID": "projects/yrbs-data-management/index.qmd.html",
@@ -221,14 +221,14 @@
     "href": "projects/project-ibis/index.html",
     "title": "Project IBIS",
     "section": "",
-    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
+    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geospatial, disaster relief information system."
   },
   {
     "objectID": "projects/project-ibis/index.html#context",
     "href": "projects/project-ibis/index.html#context",
     "title": "Project IBIS",
     "section": "",
-    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
+    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geospatial, disaster relief information system."
   },
   {
     "objectID": "projects/project-ibis/index.html#challenge",
@@ -284,7 +284,7 @@
     "href": "sharing-ideas.html",
     "title": "Sharing Ideas",
     "section": "",
-    "text": "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - July 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Strengths and Limitations of Queer Data - July 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNative American Students & LGBTQ+ Identity - Dec. 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFindings from the 2019 Youth Risk Behavior Survey - Dec. 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Double-Edged Sword of Queer Data - June 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Mishaps Night - Feb. 2021\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUsing R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Title\n\n\n\n\n\n\nChanges to Sexual Identity Response Options in the Youth Risk Behavior Survey - March 2024\n\n\n\n\nThe Strengths and Limitations of Queer Data - July 2023\n\n\n\n\nNative American Students & LGBTQ+ Identity - Dec. 2023\n\n\n\n\nFindings from the 2019 Youth Risk Behavior Survey - Dec. 2022\n\n\n\n\nThe Double-Edged Sword of Queer Data - June 2022\n\n\n\n\nData Mishaps Night - Feb. 2021\n\n\n\n\nUsing R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "sharing-ideas/using-r-to-land-the-job/index.html",
@@ -366,7 +366,7 @@
   {
     "objectID": "sharing-ideas/1. changes-yrbs/index.html",
     "href": "sharing-ideas/1. changes-yrbs/index.html",
-    "title": "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - July 2023",
+    "title": "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - March 2024",
     "section": "",
     "text": "For the 2021 YRBS, the CDC expanded how they capture sexual identity data. Our team explores this change and provides recommendations for consistent reporting in JAMA Pediatrics."
   },
@@ -411,5 +411,33 @@
     "title": "Using R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020",
     "section": "",
     "text": "My talk “Using R to Land the Job: A Resume-Building Tutorial using Pagedown”, presented at SatRday Chicago 2020 virtual conference."
+  },
+  {
+    "objectID": "projects/company-churn-analysis/index.html",
+    "href": "projects/company-churn-analysis/index.html",
+    "title": "Company Churn Analysis",
+    "section": "",
+    "text": "In March 2024 I consulted an early education tech (edutech) company to help their engagement team learn more about churn trends and actionable steps to reduce it."
+  },
+  {
+    "objectID": "projects/company-churn-analysis/index.html#context",
+    "href": "projects/company-churn-analysis/index.html#context",
+    "title": "Company Churn Analysis",
+    "section": "",
+    "text": "In March 2024 I consulted an early education tech (edutech) company to help their engagement team learn more about churn trends and actionable steps to reduce it."
+  },
+  {
+    "objectID": "projects/company-churn-analysis/index.html#challenge",
+    "href": "projects/company-churn-analysis/index.html#challenge",
+    "title": "Company Churn Analysis",
+    "section": "Challenge",
+    "text": "Challenge\n\nWhat metrics would you recommend the engagement team track to monitor churn?\nWhat are the key insights from the data?\nThe company is aiming to reduce churn by 20% over the next year. Based on the data provided, what strategies would you recommend?"
+  },
+  {
+    "objectID": "projects/company-churn-analysis/index.html#solution",
+    "href": "projects/company-churn-analysis/index.html#solution",
+    "title": "Company Churn Analysis",
+    "section": "Solution",
+    "text": "Solution\nThis document outlines the analysis I provided for 3 hours of work, including conducting industry-specific research."
   }
 ]

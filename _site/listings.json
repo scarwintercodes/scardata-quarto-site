@@ -2,6 +2,7 @@
   {
     "listing": "/projects.html",
     "items": [
+      "/projects/company-churn-analysis/index.html",
       "/projects/pandas/index.html",
       "/projects/project-ibis/index.html",
       "/projects/yrbs-data-management/index.html"
