@@ -24,9 +24,15 @@ website:
 format:
   html:
     theme: 
-      - lux.scss
+      light: lux.scss
+      dark: darkly.scss
     link-external-newwindow: true
     smooth-scroll: true
-    css: styles.scss
-    
+    css: 
+    - styles.scss
+    - darkly.scss
+    code-copy: true
+    code-overflow: wrap
+
+
 editor: visual
