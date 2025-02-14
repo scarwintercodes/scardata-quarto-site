@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -68,9 +68,11 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<style>html{ scroll-behavior: smooth; }</style>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.scss">
+<link rel="stylesheet" href="style.css">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -90,17 +92,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <span class="nav-link">
-<span class="menu-text">about.qmd</span>
-    </span>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./projects.html"> 
 <span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
-<span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./sharing-ideas.html"> 
@@ -130,18 +123,15 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
   </div>
 </header><main class="content" id="quarto-document-content">
-<section id="about" class="level2">
-<h2 data-anchor-id="about">About</h2>
 <p>Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.</p>
 <p>Scar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to <a href="https://docs.google.com/presentation/d/1BL4XwjZAxTundKNl0gSqiyE8gPyLqnMoGcook-p8w-M/edit?usp=sharing">update your resume using R</a> and <a href="https://drive.google.com/file/d/1buEWnRuy73skT0SfZ3DCiglhSewA0ROK/view?usp=sharing">analyze complex survey data</a>.</p>
-<p>They have 9 years of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.</p>
-<p>Throughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago.</p>
-</section>
+<p>They have a decade of experience working with data - spanning analytics, management, research, and quality assurance. Currently, <strong>Scar is the Lead Data Analyst for the YRBS project within the Northwestern University Feinberg School of Medicine.</strong></p>
+<p>Throughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a <strong>Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago.</strong></p>
 <section id="services" class="level2">
 <h2 data-anchor-id="services">Services</h2>
-<p>Scar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors.</p>
+<p>Scar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors. Check out their past projects <a href="./projects.html">here</a>.</p>
 <div id="landing-icons">
-<p><a href="https://www.linkedin.com/in/scar-wk/" target="_blank"><i class="fa-brands fa-linkedin" title="linkedin" aria-label="linkedin"></i></a> &nbsp; <a href="https://github.com/scarwintercodes" target="_blank"><i class="fa-brands fa-github" title="github" aria-label="github"></i></a> &nbsp; <a href="https://bsky.app/profile/scardata.bsky.social" target="_blank"><i class="fa-brands fa-bluesky" title="bluesky" aria-label="bluesky"></i></a> &nbsp; <a href="mailto:scarwinterkelsey@gmail.com"><i class="fa-solid fa-envelope" title="envelope" aria-label="envelope"></i></a></p>
+<p><a href="https://www.linkedin.com/in/scar-wk/" target="_blank"><i class="fa-brands fa-linkedin" title="linkedin" aria-label="linkedin"></i></a> &nbsp; <a href="https://www.scarthedatavillain.substack.com/" target="_blank"><i class="fa-solid fa-bookmark" title="substack" aria-label="bookmark"></i></a> &nbsp; <a href="https://github.com/scarwintercodes" target="_blank"><i class="fa-brands fa-github" title="github" aria-label="github"></i></a> &nbsp; <a href="https://bsky.app/profile/scardata.bsky.social" target="_blank"><i class="fa-brands fa-bluesky" title="bluesky" aria-label="bluesky"></i></a> &nbsp; <a href="mailto:scardata@gmail.com"><i class="fa-solid fa-envelope" title="envelope" aria-label="envelope"></i></a></p>
 </div>
 
 
@@ -392,6 +382,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         if (link.dataset.originalHref !== undefined) {
           link.href = link.dataset.originalHref;
         }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
       }
     }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
@@ -711,4 +706,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

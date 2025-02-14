@@ -6,7 +6,7 @@ listing:
   fields: [title]
   feed: true
   sort: "date desc"
-  type: table
+  type: grid
   grid-item-border: true
   grid-item-align: left
   max-description-length: 175
