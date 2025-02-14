@@ -4,6 +4,12 @@ project:
 website:
   title: "Scar Winter Kelsey | ScarData"
   site-url: https://www.scardata.com
+  google-analytics: G-3F6HDZT979
+  anonymize-ip: true
+  cookie-consent:
+        type: express
+        style: simple
+        palette: dark
 #  favicon: 
   navbar:
     title: false
@@ -26,12 +32,11 @@ format:
   html:
     theme: 
       light: lux.scss
-      dark: darkly.scss
+      #dark: darkly.scss
     link-external-newwindow: true
     smooth-scroll: true
     css: 
     - styles.scss
-    - darkly.scss
     code-copy: true
     code-overflow: wrap
 
