@@ -5,7 +5,6 @@ website:
   title: "Scar Winter Kelsey | ScarData"
   site-url: https://www.scardata.com
   google-analytics: G-3F6HDZT979
-  anonymize-ip: true
   open-graph: true
   cookie-consent:
         type: express
@@ -33,7 +32,7 @@ format:
   html:
     theme: 
       light: lux.scss
-      #dark: darkly.scss
+      dark: luxdark.scss
     link-external-newwindow: true
     smooth-scroll: true
     css: 
