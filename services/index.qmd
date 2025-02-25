@@ -1,0 +1,18 @@
+---
+title: "ScarData | Services"
+description: "Services I offer + portfolio of previous projects"
+image: lukas-blazek-mcSDtbWXUZU-unsplash.jpg
+categories: 
+  - "Context"
+  - "Challenge"
+  - "Solution"
+---
+
+# Services Offered
+
+I am available to help both individuals and companies achieve their data-driven goals. My services include:
+
+-   Career consulting (portfolio review, interview prep, resume writing)
+-   Data analysis mentoring (Beginner to Intermediate R, Python)
+-   Data science (visualizations, code review and model optimization)
+-   AI training and prompt engineering
