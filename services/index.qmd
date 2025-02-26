@@ -10,7 +10,7 @@ categories:
 
 # Services Offered
 
-I am available to help both individuals and companies achieve their data-driven goals. My services include:
+I am available to work with individuals, non-profits, corporations, and universities on your data analysis and technical training endeavors. My services include:
 
 -   Career consulting (portfolio review, interview prep, resume writing)
 -   Data analysis mentoring (Beginner to Intermediate R, Python)
