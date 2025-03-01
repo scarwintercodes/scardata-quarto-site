@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 // quarto-scss-analysis-annotation { "origin": "lux (builtin theme)" }
 
-$theme: "lux" !default;
+$theme: "lux-dark" !default;
 
 //
 // Color system
@@ -30,16 +30,16 @@ $green:   #4bbf73 !default;
 $teal:    #20c997 !default;
 $cyan:    #1f9bcf !default;
 
-$primary:       $gray-900 !default;
-$secondary:     $white !default;
+$primary:       $gray-200 !default; // Light text for dark background
+$secondary:     $gray-600 !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
-$light:         $white !default;
-$dark:          $gray-800 !default;
+$light:         $gray-100 !default;
+$dark:          $gray-900 !default;
 
-$min-contrast-ratio:   2.3 !default;
+$min-contrast-ratio:   4.5 !default; // Increase contrast for better visibility
 
 // Options
 
@@ -47,7 +47,8 @@ $enable-rounded:            false !default;
 
 // Body
 
-$body-color:                $gray-700 !default;
+$body-bg:                   $gray-900 !default; // Dark background
+$body-color:                $gray-100 !default; // Light text
 
 // Fonts
 
@@ -60,11 +61,13 @@ $h4-font-size:                1.25rem !default;
 $h5-font-size:                1rem !default;
 $h6-font-size:                .75rem !default;
 $headings-font-weight:        600 !default;
-$headings-color:              $gray-900 !default;
+$headings-color:              $gray-100 !default; // Light headings
 
 // Tables
 
-$table-border-color:          rgba(0, 0, 0, .05) !default;
+$table-bg:                    $gray-800 !default; // Dark table background
+$table-border-color:          rgba($gray-700, .5) !default; // Slightly lighter border
+$table-color:                 $gray-100 !default; // Light text in tables
 
 // Buttons
 
@@ -79,32 +82,38 @@ $btn-font-weight:             600 !default;
 
 // Forms
 
-$input-line-height:                     1.5 !default;
-$input-bg:                              $gray-200 !default;
-$input-disabled-bg:                     $gray-300 !default;
-$input-group-addon-bg:                  $gray-300 !default;
+$input-bg:                              $gray-800 !default; // Dark input background
+$input-color:                           $gray-100 !default; // Light input text
+$input-border-color:                    $gray-700 !default; // Slightly lighter border
+$input-disabled-bg:                     $gray-700 !default; // Disabled input background
+$input-group-addon-bg:                  $gray-700 !default; // Addon background
 
 $form-select-disabled-color:        $gray-600 !default;
 $form-select-disabled-bg:           $input-disabled-bg !default;
 
 // Navbar
 
-$navbar-padding-y:                  1.5rem !default;
-$navbar-dark-hover-color:           $white !default;
-$navbar-light-color:                rgba($black, .3) !default;
-$navbar-light-hover-color:          $gray-900 !default;
-$navbar-light-active-color:         $gray-900 !default;
+$navbar-bg:                       $gray-800 !default; // Dark navbar background
+$navbar-color:                    $gray-100 !default; // Light navbar text
+$navbar-padding-y:                1.5rem !default;
+$navbar-dark-hover-color:         $white !default;
+$navbar-light-color:              rgba($white, .3) !default; // Light navbar text
+$navbar-light-hover-color:        $white !default;
+$navbar-light-active-color:       $white !default;
 
 // Pagination
 
-$pagination-border-color:           transparent !default;
-$pagination-hover-border-color:     $pagination-border-color !default;
-$pagination-disabled-border-color:  $pagination-border-color !default;
-
-
+$pagination-bg:                   $gray-800 !default; // Dark pagination background
+$pagination-color:                $gray-100 !default; // Light pagination text
+$pagination-border-color:         transparent !default;
+$pagination-hover-bg:             $gray-700 !default; // Hover background
+$pagination-hover-color:          $white !default; // Hover text
+$pagination-hover-border-color:   $pagination-border-color !default;
+$pagination-disabled-bg:          $gray-900 !default; // Disabled background
+$pagination-disabled-color:       $gray-600 !default; // Disabled text
+$pagination-disabled-border-color: $pagination-border-color !default;
 
 /*-- scss:rules --*/
-
 
 // Variables
 
@@ -119,16 +128,24 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
   font-size: $font-size-sm;
   font-weight: 600;
   text-transform: uppercase;
+  background-color: $navbar-bg;
+  color: $navbar-color;
 
   &-nav {
     .nav-link {
       padding-top: .715rem;
       padding-bottom: .715rem;
+      color: $navbar-color;
+
+      &:hover {
+        color: $navbar-dark-hover-color;
+      }
     }
   }
 
   &-brand {
     margin-right: 2rem;
+    color: $navbar-color;
   }
 }
 
@@ -198,6 +215,8 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;6
 body {
   font-weight: 200;
   letter-spacing: 1px;
+  background-color: $body-bg;
+  color: $body-color;
 }
 
 h1,
@@ -208,6 +227,7 @@ h5,
 h6 {
   text-transform: uppercase;
   letter-spacing: 3px;
+  color: $headings-color;
 }
 
 .text-secondary {
@@ -222,9 +242,13 @@ th {
 }
 
 .table {
+  background-color: $table-bg;
+  color: $table-color;
+
   th,
   td {
     padding: 1.5rem;
+    border-color: $table-border-color;
   }
 
   &-sm {
@@ -240,6 +264,17 @@ th {
 .dropdown-menu {
   font-size: $font-size-sm;
   text-transform: none;
+  background-color: $gray-800;
+  color: $gray-100;
+
+  .dropdown-item {
+    color: $gray-100;
+
+    &:hover {
+      background-color: $gray-700;
+      color: $white;
+    }
+  }
 }
 
 // Indicators
@@ -261,6 +296,9 @@ th {
 
 .list-group-item,
 .card {
+  background-color: $gray-800;
+  color: $gray-100;
+
   h1,
   h2,
   h3,
@@ -276,6 +314,5 @@ th {
     color: inherit;
   }
 }
-
 
 // quarto-scss-analysis-annotation { "origin": null }
