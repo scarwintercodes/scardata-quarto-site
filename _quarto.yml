@@ -5,11 +5,12 @@ website:
   title: "Scar Winter Kelsey | ScarData"
   site-url: https://www.scardata.com
   google-analytics: G-3F6HDZT979
+  anonymize-ip: true
   open-graph: true
   cookie-consent:
         type: express
         style: simple
-        palette: light
+        palette: dark
 #  favicon: 
   navbar:
     title: false
@@ -40,6 +41,7 @@ website:
             target: _blank
 
   page-footer:
+    left: © 2025 Scar Winter Kelsey
     right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
     
 format:
