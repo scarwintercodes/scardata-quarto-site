@@ -12,7 +12,13 @@ categories:
 
 I am available to work with individuals, non-profits, corporations, and universities on your data analysis and technical training endeavors. My services include:
 
--   Career consulting (portfolio review, interview prep, resume writing)
--   Data analysis mentoring (Beginner to Intermediate R, Python)
--   Data science (visualizations, code review and model optimization)
+-   Career consulting:
+      - Portfolio review
+      - Interview prep
+      - Resume writing
+      
+-   Data analysis:
+      - Mentoring: Beginner to Intermediate R, Python
+      - Services: visualizations, code review and statistical analysis
+      
 -   AI training and prompt engineering
