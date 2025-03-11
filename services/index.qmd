@@ -1,11 +1,6 @@
 ---
 title: "ScarData | Services"
-description: "Services I offer + portfolio of previous projects"
-image: lukas-blazek-mcSDtbWXUZU-unsplash.jpg
-categories: 
-  - "Context"
-  - "Challenge"
-  - "Solution"
+description: "Services I offer"
 ---
 
 # Services Offered
@@ -13,12 +8,12 @@ categories:
 I am available to work with individuals, non-profits, corporations, and universities on your data analysis and technical training endeavors. My services include:
 
 -   Career consulting:
-      - Portfolio review
-      - Interview prep
-      - Resume writing
-      
+    -   Portfolio review
+    -   Interview prep
+    -   Resume writing
 -   Data analysis:
-      - Mentoring: Beginner to Intermediate R, Python
-      - Services: visualizations, code review and statistical analysis
-      
--   AI training and prompt engineering
+    -   Mentoring: Beginner to Intermediate R, Python
+    -   Services: visualizations, code review and statistical analysis
+    -   AI training and prompt engineering
+
+**To get started**, reach out to me at scardata\@gmail.com.
