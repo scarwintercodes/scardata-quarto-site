@@ -9,7 +9,7 @@ website:
   cookie-consent:
         type: express
         style: simple
-        palette: dark
+        palette: light
 #  favicon: 
   navbar:
     title: false
@@ -27,6 +27,20 @@ website:
         
       - href: sharing-ideas.qmd
         text: Sharing Ideas
+      
+      - text: Reach out
+        menu:
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/in/scar-wk
+            target: _blank
+          - icon: envelope
+            text: email
+            href: mailto:scardata@gmail.com
+            target: _blank
+
+  page-footer:
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
     
 format:
   html:
