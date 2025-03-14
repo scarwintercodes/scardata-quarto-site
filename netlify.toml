@@ -1,5 +1,5 @@
 [build]
-  command = "curl -LO https://quarto.org/download/latest/quarto-linux-amd64.tar.gz && tar -zxvf quarto-linux-amd64.tar.gz && export PATH=$PATH:$(pwd)/quarto-1.4.0/bin && quarto render"
+  command = "./build.sh"
   publish = "_site"
   
   # Environment variables (optional)
@@ -18,3 +18,6 @@
 
 # Ignore Puppeteer and Node.js dependencies
   ignore = "node_modules"
+
+  [[plugins]]
+  package = "netlify-plugin-quarto"
