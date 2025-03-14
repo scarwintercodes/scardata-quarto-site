@@ -4,7 +4,7 @@
 
   # Publish the output directory (default is `_site` for Quarto)
   publish = "_site"
-
+  
   # Environment variables (optional)
   [build.environment]
     # Set the Quarto version (optional)
