@@ -15,3 +15,6 @@
   from = "/*"
   to = "/index.html"
   status = 200
+
+# Ignore Puppeteer and Node.js dependencies
+  ignore = "node_modules"
