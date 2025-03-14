@@ -1,1 +1,1 @@
-Sitemap: https://www.scardata.com/sitemap.xml
+Sitemap: https://phenomenal-marzipan-502b53.netlify.app/sitemap.xml
