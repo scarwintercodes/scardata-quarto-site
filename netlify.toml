@@ -7,9 +7,6 @@
     # Set the Quarto version (optional)
     QUARTO_VERSION = "1.4.0"
 
-    # Set Node.js version (if your project uses Node.js for custom scripts)
-    NODE_VERSION = "18"
-
 # Redirects for single-page applications (SPA) or custom routing
 [[redirects]]
   from = "/*"
