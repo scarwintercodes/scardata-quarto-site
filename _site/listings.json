@@ -1,18 +1,5 @@
 [
   {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/company-churn-analysis/index.html",
-      "/projects/pandas/index.html",
-      "/projects/project-ibis/index.html",
-      "/projects/yrbs-data-management/index.html"
-    ]
-  },
-  {
-    "listing": "/sharing-ideas/sharing-ideas.html",
-    "items": []
-  },
-  {
     "listing": "/sharing-ideas.html",
     "items": [
       "/sharing-ideas/1. changes-yrbs/index.html",
@@ -22,6 +9,15 @@
       "/sharing-ideas/5. double-edged-sword/index.html",
       "/sharing-ideas/6. data-mishaps/index.html",
       "/sharing-ideas/7. using-r-to-land-the-job/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/1 - company-churn-analysis/index.html",
+      "/projects/2 - yrbs-data-management/index.html",
+      "/projects/3 - pandas/index.html",
+      "/projects/4 - project-ibis/index.html"
     ]
   }
 ]

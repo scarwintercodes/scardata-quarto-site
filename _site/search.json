@@ -1,402 +1,10 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Company Churn Analysis\n\n\nProviding churn analysis and recommendations for an early edutech company\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Validation Automation\n\n\nAutomating data validation in NumPy and pandas for clinical data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject IBIS\n\n\nRequirements analysis, data collection, and consulting for a community-driven, geospatial disaster relief information system\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYRBS Data Management\n\n\nData modernization, management, and governance standards\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/Project IBIS.html",
-    "href": "projects/Project IBIS.html",
-    "title": "Project IBIS",
-    "section": "",
-    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
-  },
-  {
-    "objectID": "projects/Project IBIS.html#overview",
-    "href": "projects/Project IBIS.html#overview",
-    "title": "Project IBIS",
-    "section": "",
-    "text": "This section provides an overview of Project Title 1, including its objectives and methodologies."
-  },
-  {
-    "objectID": "projects/Project IBIS.html#key-features",
-    "href": "projects/Project IBIS.html#key-features",
-    "title": "Project IBIS",
-    "section": "Key Features",
-    "text": "Key Features\n\nFeature 1\nFeature 2\nFeature 3"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Scar Winter Kelsey",
-    "section": "",
-    "text": "Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to update your resume using R and analyze complex survey data.\nThey have 9 years of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
-  },
-  {
-    "objectID": "about.html#goals",
-    "href": "about.html#goals",
-    "title": "About Quarto",
-    "section": "",
-    "text": "The overarching goal of Quarto is to make the process of creating and collaborating on scientific and technical documents dramatically better. We hope to do this in several dimensions:\n\nCreate a writing and publishing environment with great integrated tools for technical content. We want to make authoring with embedded code, equations, figures, complex diagrams, interactive widgets, citations, cross references, and the myriad other special requirements of scientific discourse straightforward and productive for everyone.\nHelp authors take full advantage of the web as a connected, interactive platform for communications, while still providing the ability to create excellent printed output from the same document source. Researchers shouldn’t need to choose between LaTeX, MS Word, and HTML but rather be able to author documents that target all of them at the same time.\nMake reproducible research and publications the norm rather than the exception. Reproducibility requires that the code and data required to create a manuscript are an integrated part of it. However, this isn’t often straightforward in practice—Quarto aims to make it easier to adopt a reproducible workflow than not.\n\nQuarto is open source software. We believe that it’s better for everyone if the tools used for research and science are free and open. Reproducibility, widespread sharing of knowledge and techniques, and the leveling of the playing field by eliminating cost barriers are but a few of the shared benefits of free software in science."
-  },
-  {
-    "objectID": "about.html#project",
-    "href": "about.html#project",
-    "title": "About Quarto",
-    "section": "Project",
-    "text": "Project\nAt the core of Quarto is Pandoc, a powerful and flexible document processing tool. Quarto adds a number of facilities to Pandoc aimed at scientific and technical publishing, including:\n\nEmbedding code and output from Python, R, and JavaScript via integration with Jupyter, Knitr, and Observable.\nA variety of extensions to Pandoc markdown useful for technical writing including cross-references, sub-figures, layout panels, hoverable citations and footnotes, callouts, and more.\nA project system for rendering groups of documents at once, sharing options across documents, and producing aggregate output like websites and books.\n\nDevelopment of Quarto is sponsored by Posit, PBC, where we previously created a similar system (R Markdown) that shared the same goals, but was targeted principally at users of the R language. The same core team works on both Quarto and R Markdown:\n\nJ.J. Allaire (@jjallaire)\nChristophe Dervieux (@cderv)\nCarlos Scheidegger (@cscheid)\nCharles Teague (@dragonstyle)\nYihui Xie (@yihui)\n\nWith Quarto, we are hoping to bring these tools to a much wider audience.\nQuarto is a registered trademark of Posit. Please see our trademark policy for guidelines on usage of the Quarto trademark."
-  },
-  {
-    "objectID": "about.html#contribute",
-    "href": "about.html#contribute",
-    "title": "About Quarto",
-    "section": "Contribute",
-    "text": "Contribute\nYou can contribute to Quarto in many ways:\n\nBy opening issues to provide feedback and share ideas.\nBy submitting Pull Request (PR) to fix opened issues\nBy submitting Pull Request (PR) to suggest new features (it is considered good practice to open an issue for discussion before working on a pull request for a new feature).\n\nPlease be mindful of our code of conduct as you interact with other community members.\n\nPull Requests\nPull requests are very welcome! Here’s how to contribute via PR:\n\nFork the repository, clone it locally, and make your changes in a new branch specific to the PR. For example:\n\n\nTerminal\n\n# clone your fork\n$ git clone https://github.com/&lt;username&gt;/quarto-cli\n\n# configure for your platform (./configure.sh or ./configure.cmd for windows)\n$ cd quarto-cli\n$ ./configure.sh\n\n# checkout a new branch\n$ git checkout -b feature/newthing\n\nFor significant changes (e.g more than small bug fixes), ensure that you have signed the individual or corporate contributor agreement as appropriate. You can send the signed copy to jj@rstudio.com.\nSubmit the pull request. It is ok to submit as draft in your are still working on it but would like some feedback from us. It always good to share in the open that you are working on it.\n\nWe’ll try to be as responsive as possible in reviewing and accepting pull requests."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Scar Winter Kelsey | ScarData",
-    "section": "",
-    "text": "Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to update your resume using R and analyze complex survey data.\nThey have a decade of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern University Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
-  },
-  {
-    "objectID": "projects/YRBS Data Management.html",
-    "href": "projects/YRBS Data Management.html",
-    "title": "YRBS Data Management",
-    "section": "",
-    "text": "This section provides an overview of Project Title 1, including its objectives and methodologies."
-  },
-  {
-    "objectID": "projects/YRBS Data Management.html#overview",
-    "href": "projects/YRBS Data Management.html#overview",
-    "title": "YRBS Data Management",
-    "section": "",
-    "text": "This section provides an overview of Project Title 1, including its objectives and methodologies."
-  },
-  {
-    "objectID": "projects/YRBS Data Management.html#key-features",
-    "href": "projects/YRBS Data Management.html#key-features",
-    "title": "YRBS Data Management",
-    "section": "Key Features",
-    "text": "Key Features\n\nFeature 1\nFeature 2\nFeature 3"
-  },
-  {
-    "objectID": "about.html#about",
-    "href": "about.html#about",
-    "title": "Scar Winter Kelsey",
-    "section": "",
-    "text": "Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to update your resume using R and analyze complex survey data.\nThey have 9 years of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
-  },
-  {
-    "objectID": "about.html#services",
-    "href": "about.html#services",
-    "title": "Scar Winter Kelsey",
-    "section": "Services",
-    "text": "Services\nScar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors."
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "R Tips and Tricks",
-    "section": "",
-    "text": "The #rstats and climate communities are full of talented folks who’ve written very helpful guides and resources. I’ve compiled as many as I could and organized them by type of resources below.\nhttps://ucsb-meds.github.io/creating-quarto-websites/"
-  },
-  {
-    "objectID": "projects/Project IBIS.html#context",
-    "href": "projects/Project IBIS.html#context",
-    "title": "Project IBIS",
-    "section": "",
-    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
-  },
-  {
-    "objectID": "projects/Project IBIS.html#challenge",
-    "href": "projects/Project IBIS.html#challenge",
-    "title": "Project IBIS",
-    "section": "Challenge",
-    "text": "Challenge\nMany Puerto Rican residents living in rural or mountainous areas do not have the means to safely and efficiently evacuate the island during a natural disaster. Furthermore, many rural residents cannot readily transport themselves to a hospital or shelter. In many cases, these residents are often too sick to drive themselves. If they have a designated family member or friend who can transport them, they would have to ensure the roads are clear for vehicles to pass through, which is all the more difficult during a natural disaster."
-  },
-  {
-    "objectID": "projects/Project IBIS.html#solution",
-    "href": "projects/Project IBIS.html#solution",
-    "title": "Project IBIS",
-    "section": "Solution",
-    "text": "Solution\nWe developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don’t have access to. Local response teams have discretionary access to real time data including but not limited to:\n\nIdentification and location of vulnerable residents\nMedical data of residents that adhere to HIPAA laws\nLocations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds\nLocations of relevant resources (food, water, other supplies)\n\nThis system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown."
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
-    "title": "Scar Winter Kelsey | ScarData",
-    "section": "",
-    "text": "Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to update your resume using R and analyze complex survey data.\nThey have 9 years of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
-  },
-  {
-    "objectID": "index.html#services",
-    "href": "index.html#services",
-    "title": "Scar Winter Kelsey | ScarData",
-    "section": "Services",
-    "text": "Services\nScar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors. Check out their past projects here."
-  },
-  {
-    "objectID": "projects/yrbs-data-management/index.qmd.html",
-    "href": "projects/yrbs-data-management/index.qmd.html",
-    "title": "YRBS Data Management",
-    "section": "",
-    "text": "This section provides an overview of Project Title 1, including its objectives and methodologies."
-  },
-  {
-    "objectID": "projects/yrbs-data-management/index.qmd.html#overview",
-    "href": "projects/yrbs-data-management/index.qmd.html#overview",
-    "title": "YRBS Data Management",
-    "section": "",
-    "text": "This section provides an overview of Project Title 1, including its objectives and methodologies."
-  },
-  {
-    "objectID": "projects/yrbs-data-management/index.qmd.html#key-features",
-    "href": "projects/yrbs-data-management/index.qmd.html#key-features",
-    "title": "YRBS Data Management",
-    "section": "Key Features",
-    "text": "Key Features\n\nFeature 1\nFeature 2\nFeature 3"
-  },
-  {
-    "objectID": "projects/project-ibis/index.qmd.html",
-    "href": "projects/project-ibis/index.qmd.html",
-    "title": "Project IBIS",
-    "section": "",
-    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
-  },
-  {
-    "objectID": "projects/project-ibis/index.qmd.html#context",
-    "href": "projects/project-ibis/index.qmd.html#context",
-    "title": "Project IBIS",
-    "section": "",
-    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geo-spatial, disaster relief information system."
-  },
-  {
-    "objectID": "projects/project-ibis/index.qmd.html#challenge",
-    "href": "projects/project-ibis/index.qmd.html#challenge",
-    "title": "Project IBIS",
-    "section": "Challenge",
-    "text": "Challenge\nMany Puerto Rican residents living in rural or mountainous areas do not have the means to safely and efficiently evacuate the island during a natural disaster. Furthermore, many rural residents cannot readily transport themselves to a hospital or shelter. In many cases, these residents are often too sick to drive themselves. If they have a designated family member or friend who can transport them, they would have to ensure the roads are clear for vehicles to pass through, which is all the more difficult during a natural disaster."
-  },
-  {
-    "objectID": "projects/project-ibis/index.qmd.html#solution",
-    "href": "projects/project-ibis/index.qmd.html#solution",
-    "title": "Project IBIS",
-    "section": "Solution",
-    "text": "Solution\nWe developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don’t have access to. Local response teams have discretionary access to real time data including but not limited to:\n\nIdentification and location of vulnerable residents\nMedical data of residents that adhere to HIPAA laws\nLocations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds\nLocations of relevant resources (food, water, other supplies)\n\nThis system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown."
-  },
-  {
-    "objectID": "projects/yrbs-data-management/index.html",
-    "href": "projects/yrbs-data-management/index.html",
-    "title": "YRBS Data Management",
-    "section": "",
-    "text": "The Youth Risk Behavior Survey is a bi-yearly survey conducted by the CDC across United States high schools. The EDIT Team within Northwestern University’s Feinberg School of Medicine uses these results to illuminate and affirm the experiences of sexual minority youth (SMY), especially those living at the intersections of multiply marginalized identities of sex and race/ethnicity."
-  },
-  {
-    "objectID": "projects/yrbs-data-management/index.html#context",
-    "href": "projects/yrbs-data-management/index.html#context",
-    "title": "YRBS Data Management",
-    "section": "",
-    "text": "The Youth Risk Behavior Survey is a bi-yearly survey conducted by the CDC across United States high schools. The EDIT Team within Northwestern University’s Feinberg School of Medicine uses these results to illuminate and affirm the experiences of sexual minority youth (SMY), especially those living at the intersections of multiply marginalized identities of sex and race/ethnicity."
-  },
-  {
-    "objectID": "projects/yrbs-data-management/index.html#challenge",
-    "href": "projects/yrbs-data-management/index.html#challenge",
-    "title": "YRBS Data Management",
-    "section": "Challenge",
-    "text": "Challenge\nThe Northwestern EDIT team works extensively to integrate new YRBS data with our pre-existing pooled datasets which span back to 2005. We additionally collaborate with several municipalities to draft Data Usage Agreements to grant us permission to use their own version of the YRBS. Our original analytic stack only consisted of SAS and STATA, both closed-source languages with limited analytical capabilities. Our large collection of data necessitates more efficient ways to explore, clean, and analyze the data."
-  },
-  {
-    "objectID": "projects/yrbs-data-management/index.html#solution",
-    "href": "projects/yrbs-data-management/index.html#solution",
-    "title": "YRBS Data Management",
-    "section": "Solution",
-    "text": "Solution\nI led the charge to expand our analytical stack to include R, which has open source capabilities to speed up analysis timelines and expand our analytical capabilities. We extensively tested the survey package to ensure the data was properly weighted to control population variation across jurisdictions. Additionally, our team has drafted several SOP’s to standardize our data integration process and translate analytical techniques across SAS, STATA, and R."
-  },
-  {
-    "objectID": "projects/project-ibis/index.html",
-    "href": "projects/project-ibis/index.html",
-    "title": "Project IBIS",
-    "section": "",
-    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geospatial, disaster relief information system."
-  },
-  {
-    "objectID": "projects/project-ibis/index.html#context",
-    "href": "projects/project-ibis/index.html#context",
-    "title": "Project IBIS",
-    "section": "",
-    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geospatial, disaster relief information system."
-  },
-  {
-    "objectID": "projects/project-ibis/index.html#challenge",
-    "href": "projects/project-ibis/index.html#challenge",
-    "title": "Project IBIS",
-    "section": "Challenge",
-    "text": "Challenge\nMany Puerto Rican residents living in rural or mountainous areas do not have the means to safely and efficiently evacuate the island during a natural disaster. Furthermore, many rural residents cannot readily transport themselves to a hospital or shelter. In many cases, these residents are often too sick to drive themselves. If they have a designated family member or friend who can transport them, they would have to ensure the roads are clear for vehicles to pass through, which is all the more difficult during a natural disaster."
-  },
-  {
-    "objectID": "projects/project-ibis/index.html#solution",
-    "href": "projects/project-ibis/index.html#solution",
-    "title": "Project IBIS",
-    "section": "Solution",
-    "text": "Solution\nWe developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don’t have access to. Local response teams have discretionary access to real time data including but not limited to:\n\nIdentification and location of vulnerable residents\nMedical data of residents that adhere to HIPAA laws\nLocations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds\nLocations of relevant resources (food, water, other supplies)\n\nThis system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown."
-  },
-  {
-    "objectID": "projects/pandas/index.html",
-    "href": "projects/pandas/index.html",
-    "title": "Data Validation Automation",
-    "section": "",
-    "text": "We worked with millions of rows of messy, user-input data. This data needed to be validated and cleaned before it entered our ETL software."
-  },
-  {
-    "objectID": "projects/pandas/index.html#context",
-    "href": "projects/pandas/index.html#context",
-    "title": "Data Validation Automation",
-    "section": "",
-    "text": "We worked with millions of rows of messy, user-input data. This data needed to be validated and cleaned before it entered our ETL software."
-  },
-  {
-    "objectID": "projects/pandas/index.html#challenge",
-    "href": "projects/pandas/index.html#challenge",
-    "title": "Data Validation Automation",
-    "section": "Challenge",
-    "text": "Challenge\nThe data validation and cleaning process was highly manual: changing values in Excel to match the expected input within our internal system. There was no universal validation standard, which left large room for error. Data validation took 3 business days to complete, which was an exceptionally long time based on team size and capacity."
-  },
-  {
-    "objectID": "projects/pandas/index.html#solution",
-    "href": "projects/pandas/index.html#solution",
-    "title": "Data Validation Automation",
-    "section": "Solution",
-    "text": "Solution\nWe utilized Python to write functions to standardize and automate the data validation and cleaning process. We used the pandas and NumPy libraries to conduct the essential data analysis tasks. These included validating data for accurate totals, flagging anomalies associated with operating costs, and ensuring completeness in critical fields (e.g. ID numbers, department codes, dates, etc.) Scripts scanned selected files we received from clients, flagged discrepancies, and normalized the files into a format we could then review and load into our ETL system much sooner. Data validation time was cut by 50%."
-  },
-  {
-    "objectID": "sharing-ideas/sharing-ideas.html",
-    "href": "sharing-ideas/sharing-ideas.html",
-    "title": "Sharing Ideas",
-    "section": "",
-    "text": "No matching items"
-  },
-  {
     "objectID": "sharing-ideas.html",
     "href": "sharing-ideas.html",
     "title": "Sharing Ideas",
     "section": "",
     "text": "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - March 2024\n\n\n\n\n\n\n\n\n\n\nThe Strengths and Limitations of Queer Data - July 2023\n\n\n\n\n\n\n\n\n\n\nNative American Students & LGBTQ+ Identity - Dec. 2023\n\n\n\n\n\n\n\n\n\n\nFindings from the 2019 Youth Risk Behavior Survey - Dec. 2022\n\n\n\n\n\n\n\n\n\n\nThe Double-Edged Sword of Queer Data - June 2022\n\n\n\n\n\n\n\n\n\n\nData Mishaps Night - Feb. 2021\n\n\n\n\n\n\n\n\n\n\nUsing R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "sharing-ideas/using-r-to-land-the-job/index.html",
-    "href": "sharing-ideas/using-r-to-land-the-job/index.html",
-    "title": "Using R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020",
-    "section": "",
-    "text": "My talk “Using R to Land the Job: A Resume-Building Tutorial using Pagedown”, presented at SatRday Chicago 2020 virtual conference."
-  },
-  {
-    "objectID": "sharing-ideas/queer-data/index.html",
-    "href": "sharing-ideas/queer-data/index.html",
-    "title": "The Strengths and Limitations of Queer Data - July 2023",
-    "section": "",
-    "text": "Kevin Guyan, the author of “Queer Data: Using Gender, Sex and Sexuality Data for Action” and I discuss who gets to be in the room to tell our stories, who should be in the room, and how to highlight queer joy within data."
-  },
-  {
-    "objectID": "sharing-ideas/findings-from-yrbs/index.html",
-    "href": "sharing-ideas/findings-from-yrbs/index.html",
-    "title": "Findings from the 2019 Youth Risk Behavior Survey - December 2022",
-    "section": "",
-    "text": "Published in Heath Education & Behavior, 22 Dec 2022"
-  },
-  {
-    "objectID": "sharing-ideas/dikayo-data/index.html",
-    "href": "sharing-ideas/dikayo-data/index.html",
-    "title": "Dikayo Data Podcast - July 2020",
-    "section": "",
-    "text": "My guest appearance on Dikayo Data’s S2E2 of her #DataFemme podcast alongside Jeremy Mason and Kalan Dawson to discuss bias in machine learning models, reconciling faulty data, and queer representation in tech."
-  },
-  {
-    "objectID": "sharing-ideas/changes-yrbs/index.html",
-    "href": "sharing-ideas/changes-yrbs/index.html",
-    "title": "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - July 2023",
-    "section": "",
-    "text": "For the 2021 YRBS, the CDC expanded how they capture sexual identity data. Our team explores this change and provides recommendations for consistent reporting in JAMA Pediatrics."
-  },
-  {
-    "objectID": "sharing-ideas/data-mishaps/index.html",
-    "href": "sharing-ideas/data-mishaps/index.html",
-    "title": "Data Mishaps Night - Feb. 2021",
-    "section": "",
-    "text": "I spoke at the inaugural Data Mishaps Night on some of the classic ways data analysis can go wrong!"
-  },
-  {
-    "objectID": "sharing-ideas/double-edged-sword/index.html",
-    "href": "sharing-ideas/double-edged-sword/index.html",
-    "title": "The Double-Edged Sword of Queer Data - June 2022",
-    "section": "",
-    "text": "My piece for the American Evaluation Association discussing the pros and cons of LGBTQ+ data collection."
-  },
-  {
-    "objectID": "sharing-ideas/native-students/index.html",
-    "href": "sharing-ideas/native-students/index.html",
-    "title": "Native American Students & LGBTQ+ Identity - Dec. 2023",
-    "section": "",
-    "text": "Journal of Adolescent Health\nVolume 73, Issue 6, December 2023"
-  },
-  {
-    "objectID": "sharing-ideas/7. data-mishaps/index.html",
-    "href": "sharing-ideas/7. data-mishaps/index.html",
-    "title": "Data Mishaps Night - Feb. 2021",
-    "section": "",
-    "text": "I spoke at the inaugural Data Mishaps Night on some of the classic ways data analysis can go wrong!"
-  },
-  {
-    "objectID": "sharing-ideas/5. double-edged-sword/index.html",
-    "href": "sharing-ideas/5. double-edged-sword/index.html",
-    "title": "The Double-Edged Sword of Queer Data - June 2022",
-    "section": "",
-    "text": "My piece for the American Evaluation Association discussing the pros and cons of LGBTQ+ data collection."
-  },
-  {
-    "objectID": "sharing-ideas/3. native-students/index.html",
-    "href": "sharing-ideas/3. native-students/index.html",
-    "title": "Native American Students & LGBTQ+ Identity - Dec. 2023",
-    "section": "",
-    "text": "Journal of Adolescent Health\nVolume 73, Issue 6, December 2023"
-  },
-  {
-    "objectID": "sharing-ideas/1. changes-yrbs/index.html",
-    "href": "sharing-ideas/1. changes-yrbs/index.html",
-    "title": "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - March 2024",
-    "section": "",
-    "text": "For the 2021 YRBS, the CDC expanded how they capture sexual identity data. Our team explores this change and provides recommendations for consistent reporting in JAMA Pediatrics."
-  },
-  {
-    "objectID": "sharing-ideas/2. queer-data/index.html",
-    "href": "sharing-ideas/2. queer-data/index.html",
-    "title": "The Strengths and Limitations of Queer Data - July 2023",
-    "section": "",
-    "text": "Kevin Guyan, the author of “Queer Data: Using Gender, Sex and Sexuality Data for Action” and I discuss who gets to be in the room to tell our stories, who should be in the room, and how to highlight queer joy within data."
-  },
-  {
-    "objectID": "sharing-ideas/4. findings-from-yrbs/index.html",
-    "href": "sharing-ideas/4. findings-from-yrbs/index.html",
-    "title": "Findings from the 2019 Youth Risk Behavior Survey - Dec. 2022",
-    "section": "",
-    "text": "Published in Heath Education & Behavior, 22 Dec 2022"
-  },
-  {
-    "objectID": "sharing-ideas/6. dikayo-data/index.html",
-    "href": "sharing-ideas/6. dikayo-data/index.html",
-    "title": "Dikayo Data Podcast - July 2020",
-    "section": "",
-    "text": "My guest appearance on Dikayo Data’s S2E2 of her #DataFemme podcast alongside Jeremy Mason and Kalan Dawson to discuss bias in machine learning models, reconciling faulty data, and queer representation in tech."
-  },
-  {
-    "objectID": "sharing-ideas/8. using-r-to-land-the-job/index.html",
-    "href": "sharing-ideas/8. using-r-to-land-the-job/index.html",
-    "title": "Using R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020",
-    "section": "",
-    "text": "My talk “Using R to Land the Job: A Resume-Building Tutorial using Pagedown”, presented at SatRday Chicago 2020 virtual conference."
   },
   {
     "objectID": "sharing-ideas/6. data-mishaps/index.html",
@@ -406,38 +14,192 @@
     "text": "I spoke at the inaugural Data Mishaps Night on some of the classic ways data analysis can go wrong!"
   },
   {
-    "objectID": "sharing-ideas/7. using-r-to-land-the-job/index.html",
-    "href": "sharing-ideas/7. using-r-to-land-the-job/index.html",
-    "title": "Using R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020",
+    "objectID": "sharing-ideas/4. findings-from-yrbs/index.html",
+    "href": "sharing-ideas/4. findings-from-yrbs/index.html",
+    "title": "Findings from the 2019 Youth Risk Behavior Survey - Dec. 2022",
     "section": "",
-    "text": "My talk “Using R to Land the Job: A Resume-Building Tutorial using Pagedown”, presented at SatRday Chicago 2020 virtual conference."
+    "text": "Published in Heath Education & Behavior, 22 Dec 2022"
   },
   {
-    "objectID": "projects/company-churn-analysis/index.html",
-    "href": "projects/company-churn-analysis/index.html",
+    "objectID": "sharing-ideas/2. queer-data/index.html",
+    "href": "sharing-ideas/2. queer-data/index.html",
+    "title": "The Strengths and Limitations of Queer Data - July 2023",
+    "section": "",
+    "text": "Kevin Guyan, the author of “Queer Data: Using Gender, Sex and Sexuality Data for Action” and I discuss who gets to be in the room to tell our stories, who should be in the room, and how to highlight queer joy within data."
+  },
+  {
+    "objectID": "services/index.html",
+    "href": "services/index.html",
+    "title": "ScarData | Services",
+    "section": "",
+    "text": "Services Offered\nI am available to work with individuals, non-profits, corporations, and universities on your data analysis and technical training endeavors. My services include:\n\nCareer consulting:\n\nPortfolio review\nInterview prep\nResume writing\n\nData analysis:\n\nMentoring: Beginner to Intermediate R, Python\nServices: visualizations, code review and statistical analysis\nAI training and prompt engineering\n\n\nTo get started, reach out to me at scardata@gmail.com."
+  },
+  {
+    "objectID": "projects/4 - project-ibis/index.html",
+    "href": "projects/4 - project-ibis/index.html",
+    "title": "Project IBIS",
+    "section": "",
+    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geospatial, disaster relief information system."
+  },
+  {
+    "objectID": "projects/4 - project-ibis/index.html#context",
+    "href": "projects/4 - project-ibis/index.html#context",
+    "title": "Project IBIS",
+    "section": "",
+    "text": "During my Master’s program, I led a team of 4 to conduct requirements analysis, data collection, and consulting with FEMA representatives and disaster relief non-profits in Puerto Rico to build a community-driven, geospatial, disaster relief information system."
+  },
+  {
+    "objectID": "projects/4 - project-ibis/index.html#challenge",
+    "href": "projects/4 - project-ibis/index.html#challenge",
+    "title": "Project IBIS",
+    "section": "Challenge",
+    "text": "Challenge\nMany Puerto Rican residents living in rural or mountainous areas do not have the means to safely and efficiently evacuate the island during a natural disaster. Furthermore, many rural residents cannot readily transport themselves to a hospital or shelter. In many cases, these residents are often too sick to drive themselves. If they have a designated family member or friend who can transport them, they would have to ensure the roads are clear for vehicles to pass through, which is all the more difficult during a natural disaster."
+  },
+  {
+    "objectID": "projects/4 - project-ibis/index.html#solution",
+    "href": "projects/4 - project-ibis/index.html#solution",
+    "title": "Project IBIS",
+    "section": "Solution",
+    "text": "Solution\nWe developed a mobile system which uses geographic mapping technology to locate medical, technical, and interpersonal resources before and after a natural disaster. Residents and community leaders can upload resources they have and don’t have access to. Local response teams have discretionary access to real time data including but not limited to:\n\nIdentification and location of vulnerable residents\nMedical data of residents that adhere to HIPAA laws\nLocations and contact information of residents with trade skills, large equipment, and professional behavioral backgrounds\nLocations of relevant resources (food, water, other supplies)\n\nThis system has since been used to source and deliver over 11,000 face masks to over 150 healthcare entities in Illinois during the 2020 lockdown."
+  },
+  {
+    "objectID": "projects/2 - yrbs-data-management/index.html",
+    "href": "projects/2 - yrbs-data-management/index.html",
+    "title": "YRBS Data Management",
+    "section": "",
+    "text": "The Youth Risk Behavior Survey is a bi-yearly survey conducted by the CDC across United States high schools. The EDIT Team within Northwestern University’s Feinberg School of Medicine uses these results to illuminate and affirm the experiences of sexual minority youth (SMY), especially those living at the intersections of multiply marginalized identities of sex and race/ethnicity."
+  },
+  {
+    "objectID": "projects/2 - yrbs-data-management/index.html#context",
+    "href": "projects/2 - yrbs-data-management/index.html#context",
+    "title": "YRBS Data Management",
+    "section": "",
+    "text": "The Youth Risk Behavior Survey is a bi-yearly survey conducted by the CDC across United States high schools. The EDIT Team within Northwestern University’s Feinberg School of Medicine uses these results to illuminate and affirm the experiences of sexual minority youth (SMY), especially those living at the intersections of multiply marginalized identities of sex and race/ethnicity."
+  },
+  {
+    "objectID": "projects/2 - yrbs-data-management/index.html#challenge",
+    "href": "projects/2 - yrbs-data-management/index.html#challenge",
+    "title": "YRBS Data Management",
+    "section": "Challenge",
+    "text": "Challenge\nThe Northwestern EDIT team works extensively to integrate new YRBS data with our pre-existing pooled datasets which span back to 2005. We additionally collaborate with several municipalities to draft Data Usage Agreements to grant us permission to use their own version of the YRBS. Our original analytic stack only consisted of SAS and STATA, both closed-source languages with limited analytical capabilities. Our large collection of data necessitates more efficient ways to explore, clean, and analyze the data."
+  },
+  {
+    "objectID": "projects/2 - yrbs-data-management/index.html#solution",
+    "href": "projects/2 - yrbs-data-management/index.html#solution",
+    "title": "YRBS Data Management",
+    "section": "Solution",
+    "text": "Solution\nI led the charge to expand our analytical stack to include R, which has open source capabilities to speed up analysis timelines and expand our analytical capabilities. We extensively tested the survey package to ensure the data was properly weighted to control population variation across jurisdictions. Additionally, our team has drafted several SOP’s to standardize our data integration process and translate analytical techniques across SAS, STATA, and R."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Scar Winter Kelsey | ScarData",
+    "section": "",
+    "text": "Scar Winter Kelsey is a multi-talented technologist based in Chicago, IL, USA.\nScar meshes their data expertise with an uncanny ability to translate complex technical concepts to diverse, non-technical audiences. Scar has authored several guides and tutorials instructing graduate students and working professionals on how to update your resume using R and analyze complex survey data.\nThey have a decade of experience working with data - spanning analytics, management, research, and quality assurance. Currently, Scar is the Lead Data Analyst for the YRBS project within the Northwestern University Feinberg School of Medicine.\nThroughout their career, they’ve led the charge to enhance data management and analytic capacity in various industries including academia, startups, public health, and fintech. They balance their strong technical capabilities with their penchant for social impact and strong interpersonal skills. They have a Bachelor’s in Political Science and a Master’s in Information Systems Management, both from Loyola University Chicago."
+  },
+  {
+    "objectID": "index.html#services",
+    "href": "index.html#services",
+    "title": "Scar Winter Kelsey | ScarData",
+    "section": "Services",
+    "text": "Services\nScar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors. Check out their past projects here."
+  },
+  {
+    "objectID": "projects/1 - company-churn-analysis/index.html",
+    "href": "projects/1 - company-churn-analysis/index.html",
     "title": "Company Churn Analysis",
     "section": "",
     "text": "In March 2024 I consulted an early education tech (edutech) company to help their engagement team learn more about churn trends and actionable steps to reduce it."
   },
   {
-    "objectID": "projects/company-churn-analysis/index.html#context",
-    "href": "projects/company-churn-analysis/index.html#context",
+    "objectID": "projects/1 - company-churn-analysis/index.html#context",
+    "href": "projects/1 - company-churn-analysis/index.html#context",
     "title": "Company Churn Analysis",
     "section": "",
     "text": "In March 2024 I consulted an early education tech (edutech) company to help their engagement team learn more about churn trends and actionable steps to reduce it."
   },
   {
-    "objectID": "projects/company-churn-analysis/index.html#challenge",
-    "href": "projects/company-churn-analysis/index.html#challenge",
+    "objectID": "projects/1 - company-churn-analysis/index.html#challenge",
+    "href": "projects/1 - company-churn-analysis/index.html#challenge",
     "title": "Company Churn Analysis",
     "section": "Challenge",
     "text": "Challenge\n\nWhat metrics would you recommend the engagement team track to monitor churn?\nWhat are the key insights from the data?\nThe company is aiming to reduce churn by 20% over the next year. Based on the data provided, what strategies would you recommend?"
   },
   {
-    "objectID": "projects/company-churn-analysis/index.html#solution",
-    "href": "projects/company-churn-analysis/index.html#solution",
+    "objectID": "projects/1 - company-churn-analysis/index.html#solution",
+    "href": "projects/1 - company-churn-analysis/index.html#solution",
     "title": "Company Churn Analysis",
     "section": "Solution",
     "text": "Solution\nThis document outlines the analysis I provided for 3 hours of work, including conducting industry-specific research."
+  },
+  {
+    "objectID": "projects/3 - pandas/index.html",
+    "href": "projects/3 - pandas/index.html",
+    "title": "Data Validation Automation",
+    "section": "",
+    "text": "We worked with millions of rows of messy, user-input data. This data needed to be validated and cleaned before it entered our ETL software."
+  },
+  {
+    "objectID": "projects/3 - pandas/index.html#context",
+    "href": "projects/3 - pandas/index.html#context",
+    "title": "Data Validation Automation",
+    "section": "",
+    "text": "We worked with millions of rows of messy, user-input data. This data needed to be validated and cleaned before it entered our ETL software."
+  },
+  {
+    "objectID": "projects/3 - pandas/index.html#challenge",
+    "href": "projects/3 - pandas/index.html#challenge",
+    "title": "Data Validation Automation",
+    "section": "Challenge",
+    "text": "Challenge\nThe data validation and cleaning process was highly manual: changing values in Excel to match the expected input within our internal system. There was no universal validation standard, which left large room for error. Data validation took 3 business days to complete, which was an exceptionally long time based on team size and capacity."
+  },
+  {
+    "objectID": "projects/3 - pandas/index.html#solution",
+    "href": "projects/3 - pandas/index.html#solution",
+    "title": "Data Validation Automation",
+    "section": "Solution",
+    "text": "Solution\nWe utilized Python to write functions to standardize and automate the data validation and cleaning process. We used the pandas and NumPy libraries to conduct the essential data analysis tasks. These included validating data for accurate totals, flagging anomalies associated with operating costs, and ensuring completeness in critical fields (e.g. ID numbers, department codes, dates, etc.) Scripts scanned selected files we received from clients, flagged discrepancies, and normalized the files into a format we could then review and load into our ETL system much sooner. Data validation time was cut by 50%."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Company Churn Analysis\n\n\nProviding churn analysis and recommendations for an early edutech company\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYRBS Data Management\n\n\nData modernization, management, and governance standards\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Validation Automation\n\n\nAutomating data validation in NumPy and pandas for clinical data\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nProject IBIS\n\n\nRequirements analysis, data collection, and consulting for a community-driven, geospatial disaster relief information system\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "R Tips and Tricks",
+    "section": "",
+    "text": "The #rstats and climate communities are full of talented folks who’ve written very helpful guides and resources. I’ve compiled as many as I could and organized them by type of resources below.\nhttps://ucsb-meds.github.io/creating-quarto-websites/"
+  },
+  {
+    "objectID": "sharing-ideas/1. changes-yrbs/index.html",
+    "href": "sharing-ideas/1. changes-yrbs/index.html",
+    "title": "Changes to Sexual Identity Response Options in the Youth Risk Behavior Survey - March 2024",
+    "section": "",
+    "text": "For the 2021 YRBS, the CDC expanded how they capture sexual identity data. Our team explores this change and provides recommendations for consistent reporting in JAMA Pediatrics."
+  },
+  {
+    "objectID": "sharing-ideas/3. native-students/index.html",
+    "href": "sharing-ideas/3. native-students/index.html",
+    "title": "Native American Students & LGBTQ+ Identity - Dec. 2023",
+    "section": "",
+    "text": "Journal of Adolescent Health\nVolume 73, Issue 6, December 2023"
+  },
+  {
+    "objectID": "sharing-ideas/5. double-edged-sword/index.html",
+    "href": "sharing-ideas/5. double-edged-sword/index.html",
+    "title": "The Double-Edged Sword of Queer Data - June 2022",
+    "section": "",
+    "text": "My piece for the American Evaluation Association discussing the pros and cons of LGBTQ+ data collection."
+  },
+  {
+    "objectID": "sharing-ideas/7. using-r-to-land-the-job/index.html",
+    "href": "sharing-ideas/7. using-r-to-land-the-job/index.html",
+    "title": "Using R to Land the Job: A Resume-Building Tutorial using Pagedown - May 2020",
+    "section": "",
+    "text": "My talk “Using R to Land the Job: A Resume-Building Tutorial using Pagedown”, presented at SatRday Chicago 2020 virtual conference."
   }
 ]
