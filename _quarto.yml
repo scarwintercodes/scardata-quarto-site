@@ -7,7 +7,7 @@ execute:
 
 website:
   title: "Scar Winter Kelsey | ScarData"
-  site-url: https://www.scardata.com
+  site-url: https://scardata.github.io
   google-analytics: G-3F6HDZT979
   open-graph: true
   cookie-consent:
