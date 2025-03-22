@@ -18,5 +18,5 @@ jobs:
       - name: Render and Publish 
         uses: quarto-dev/quarto-actions/publish@v2
         with:
-          target: netlify
-          NETLIFY_AUTH_TOKEN: ${{ secrets.nfp_NKrBoW6JjMYnq1BmKZgZcew1g5fcbvNUb1a1}}
+          target: quarto-pub
+          QUARTO_PUB_AUTH_TOKEN: ${{ secrets.QUARTO_PUB_AUTH_TOKEN }}
