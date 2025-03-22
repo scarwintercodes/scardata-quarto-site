@@ -6,19 +6,22 @@
       version="2.0">
 <channel>
 <title>Scar Winter Kelsey | ScarData</title>
-<link>https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects.html</link>
-<atom:link href="https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects.xml" rel="self" type="application/rss+xml"/>
+<link>https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects.html</link>
+<atom:link href="https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Sat, 22 Mar 2025 02:07:38 GMT</lastBuildDate>
+<lastBuildDate>Sat, 22 Mar 2025 04:38:31 GMT</lastBuildDate>
 <item>
   <title>Company Churn Analysis</title>
-  <link>https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/1 - company-churn-analysis/</link>
+  <link>https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/1 - company-churn-analysis/</link>
   <description><![CDATA[ 
 
 
 
 
+<section id="skills-highlighted" class="level2">
+<h2 class="anchored" data-anchor-id="skills-highlighted">Skills Highlighted</h2>
+</section>
 <section id="context" class="level2">
 <h2 class="anchored" data-anchor-id="context">Context</h2>
 <p>In March 2024 I consulted an early education tech (edutech) company to help their engagement team learn more about churn trends and actionable steps to reduce it.</p>
@@ -33,7 +36,7 @@
 </section>
 <section id="solution" class="level2">
 <h2 class="anchored" data-anchor-id="solution">Solution</h2>
-<p>This <a href="https://docs.google.com/document/d/1m7MQeXpGnzxUnlaGeJrGRPty_HFwiiTKbGbs-l_MQ00/edit?usp=drive_link">document</a> outlines the analysis I provided for 3 hours of work, including conducting industry-specific research.</p>
+<p>This <a href="https://docs.google.com/document/d/1m7MQeXpGnzxUnlaGeJrGRPty_HFwiiTKbGbs-l_MQ00/edit?usp=drive_link">document</a> outlines the analysis I provided, including conducting industry-specific research.</p>
 
 
 </section>
@@ -42,13 +45,13 @@
   <category>Context</category>
   <category>Challenge</category>
   <category>Solution</category>
-  <guid>https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/1 - company-churn-analysis/</guid>
-  <pubDate>Sat, 22 Mar 2025 02:07:38 GMT</pubDate>
-  <media:content url="https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/1 - company-churn-analysis/lukas-blazek-mcSDtbWXUZU-unsplash.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/1 - company-churn-analysis/</guid>
+  <pubDate>Sat, 22 Mar 2025 04:38:31 GMT</pubDate>
+  <media:content url="https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/1 - company-churn-analysis/lukas-blazek-mcSDtbWXUZU-unsplash.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>YRBS Data Management</title>
-  <link>https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/2 - yrbs-data-management/</link>
+  <link>https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/2 - yrbs-data-management/</link>
   <description><![CDATA[ 
 
 
@@ -73,13 +76,13 @@
   <category>Context</category>
   <category>Challenge</category>
   <category>Solution</category>
-  <guid>https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/2 - yrbs-data-management/</guid>
-  <pubDate>Sat, 22 Mar 2025 02:07:38 GMT</pubDate>
-  <media:content url="https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/2 - yrbs-data-management/EDIT.png" medium="image" type="image/png" height="59" width="144"/>
+  <guid>https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/2 - yrbs-data-management/</guid>
+  <pubDate>Sat, 22 Mar 2025 04:38:31 GMT</pubDate>
+  <media:content url="https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/2 - yrbs-data-management/EDIT.png" medium="image" type="image/png" height="59" width="144"/>
 </item>
 <item>
   <title>Data Validation Automation</title>
-  <link>https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/3 - pandas/</link>
+  <link>https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/3 - pandas/</link>
   <description><![CDATA[ 
 
 
@@ -104,13 +107,13 @@
   <category>Context</category>
   <category>Challenge</category>
   <category>Solution</category>
-  <guid>https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/3 - pandas/</guid>
-  <pubDate>Sat, 22 Mar 2025 02:07:38 GMT</pubDate>
-  <media:content url="https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/3 - pandas/pandas.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/3 - pandas/</guid>
+  <pubDate>Sat, 22 Mar 2025 04:38:31 GMT</pubDate>
+  <media:content url="https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/3 - pandas/pandas.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Project IBIS</title>
-  <link>https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/4 - project-ibis/</link>
+  <link>https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/4 - project-ibis/</link>
   <description><![CDATA[ 
 
 
@@ -142,9 +145,9 @@
   <category>Context</category>
   <category>Challenge</category>
   <category>Solution</category>
-  <guid>https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/4 - project-ibis/</guid>
-  <pubDate>Sat, 22 Mar 2025 02:07:38 GMT</pubDate>
-  <media:content url="https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/projects/4 - project-ibis/IBIS.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/4 - project-ibis/</guid>
+  <pubDate>Sat, 22 Mar 2025 04:38:31 GMT</pubDate>
+  <media:content url="https://a5580e3f-683f-4621-9d56-5233ed4bf810.netlify.app/projects/4 - project-ibis/IBIS.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

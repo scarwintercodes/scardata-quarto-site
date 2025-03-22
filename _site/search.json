@@ -105,18 +105,11 @@
     "text": "Services\nScar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors. Check out their past projects here."
   },
   {
-    "objectID": "projects/1 - company-churn-analysis/index.html",
-    "href": "projects/1 - company-churn-analysis/index.html",
-    "title": "Company Churn Analysis",
-    "section": "",
-    "text": "In March 2024 I consulted an early education tech (edutech) company to help their engagement team learn more about churn trends and actionable steps to reduce it."
-  },
-  {
     "objectID": "projects/1 - company-churn-analysis/index.html#context",
     "href": "projects/1 - company-churn-analysis/index.html#context",
     "title": "Company Churn Analysis",
-    "section": "",
-    "text": "In March 2024 I consulted an early education tech (edutech) company to help their engagement team learn more about churn trends and actionable steps to reduce it."
+    "section": "Context",
+    "text": "Context\nIn March 2024 I consulted an early education tech (edutech) company to help their engagement team learn more about churn trends and actionable steps to reduce it."
   },
   {
     "objectID": "projects/1 - company-churn-analysis/index.html#challenge",
@@ -130,7 +123,7 @@
     "href": "projects/1 - company-churn-analysis/index.html#solution",
     "title": "Company Churn Analysis",
     "section": "Solution",
-    "text": "Solution\nThis document outlines the analysis I provided for 3 hours of work, including conducting industry-specific research."
+    "text": "Solution\nThis document outlines the analysis I provided, including conducting industry-specific research."
   },
   {
     "objectID": "projects/3 - pandas/index.html",
