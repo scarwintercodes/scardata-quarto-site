@@ -1,4 +1,7 @@
 - source: project
   netlify:
     - id: 4f2ba44b-061d-46ad-872e-77f0717b634d
-      url: 'scardata.netlify.app'
+      url: scardata.netlify.app
+  quarto-pub:
+    - id: 079f0bdb-4ba4-4c2b-821c-f317f5297f50
+      url: 'https://scarquarto.quarto.pub/scardata'

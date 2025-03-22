@@ -1,1 +1,1 @@
-Sitemap: https://www.scardata.com/sitemap.xml
+Sitemap: https://079f0bdb-4ba4-4c2b-821c-f317f5297f50.netlify.app/sitemap.xml
