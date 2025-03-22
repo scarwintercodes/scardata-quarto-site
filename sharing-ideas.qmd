@@ -1,6 +1,6 @@
 ---
 title: "Sharing Ideas"
-subtitle: "Podcasts, conferences, and articles" 
+subtitle: "My various two cents throughout the years" 
 listing:
   contents: sharing-ideas
   fields: [title]
