@@ -1,6 +1,4 @@
 - source: project
   quarto-pub:
     - id: 079f0bdb-4ba4-4c2b-821c-f317f5297f50
-      url: 'https://scarquarto.quarto.pub/scardata'
-    - id: a5580e3f-683f-4621-9d56-5233ed4bf810
-      url: 'https://scardata.quarto.pub/httpsscardataquartopub'
+      url: 'https://scardata.quarto.pub/
