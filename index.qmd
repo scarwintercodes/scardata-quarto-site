@@ -20,7 +20,7 @@ Throughout their career, they’ve led the charge to enhance data management and
 
 ## Services
 
-Scar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors. Check out their past projects [here](projects.qmd).
+Scar is available to work with individuals, non-profits, corporations, and universities on their data analysis and technical training endeavors. Check out their past projects [here](projects.qmd). \[testing\]
 
 ::: {#landing-icons}
 [{{< fa brands linkedin title="linkedin" >}}](https://www.linkedin.com/in/scar-wk/){target="_blank"}   [{{< fa bookmark title="substack" >}}](https://www.scarthedatavillain.substack.com/){target="_blank"}   [{{< fa brands github title="github" >}}](https://github.com/scarwintercodes){target="_blank"}   [{{< fa brands bluesky title="bluesky" >}}](https://bsky.app/profile/scardata.bsky.social){target="_blank"}   [{{< fa envelope title="envelope" >}}](mailto:scardata@gmail.com)
